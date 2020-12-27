@@ -195,7 +195,7 @@ TVB功夫台,http://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
 吴京作品,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180867/75/index.m3u8?&encrypt=
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225523/index.m3u8
 黑莓电影,http://223.110.247.161:6610/cntv/live1/jdianying/jdianying
-http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=8785669936177902664&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7104871599213018997&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahNL9rsQ47%2FVPQ5I1mk1Euevu4ww4P7XntfNX2WiTOL8Ndvf6BV%2B2zKclmpoXZ7t90oK%2B2FmGgVhOPi8JUqoFyt9
+黑莓电影,http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=8785669936177902664&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7104871599213018997&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahNL9rsQ47%2FVPQ5I1mk1Euevu4ww4P7XntfNX2WiTOL8Ndvf6BV%2B2zKclmpoXZ7t90oK%2B2FmGgVhOPi8JUqoFyt9
 Dox环映,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
 ox剧场,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
 动作电影,http://223.110.247.161:6610/cntv/live1/dongzuody/dongzuody
