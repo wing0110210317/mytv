@@ -8,7 +8,6 @@ CCTV-1综合,http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/00000000
 CCTV-1综合,http://yuniptvunql.chinayungu.cn:65530/live/cctv1/index.m3u8
 CCTV-1综合,http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 CCTV-1综合,http://183.207.248.71/cntv/live1/PUSSY/cctv-1
-CCTV-3综艺,http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 CCTV-3综艺,http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv3/HD-2500k-1080P-cctv3
 CCTV-3综艺,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&&encrypt=
 CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
@@ -16,6 +15,7 @@ CCTV-3综艺,http://dbiptv.sn.chinamobile.com/pltv/88888890/224/3221226397/index
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/1.m3u8
 CCTV-3综艺,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8
 CCTV-3综艺,http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000011218/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000011218&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000011218&owchid=ystenlive&owsid=4214761598893406939&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYduAXchjCNR141P%2FMlBOVpYy3i%2BTE1ebaD8X6UPBCa6cjVMrcAuDULWpErtBvf3l8
+CCTV-3综艺,http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 CCTV-3综艺,http://183.207.248.71/cntv/live1/PUSSY/cctv-3
 CCTV-5体育,http://cctv5ksh5ca.v.kcdnvip.com/live/cctv5_2/index.m3u8
 CCTV-5体育,http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5
@@ -74,8 +74,8 @@ CCTV-15音乐,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/32
 CCTV-15音乐,http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000008163/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000008163&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=9245961598894111453&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYyWl75POcVWV26eg8h1ULDfp2WGltqljPl5EfbrCsEcGa0hkOGif5Ra51OkzflTs7
 CCTV-15音乐,http://117.148.187.37/PLTV/88888888/224/3221226112/index.m3u8
 体育频道,#genre#
-风云足球,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 风云足球,http://183.131.128.233/live.hcs.cmvideo.cn:8088/ws_v/2018/fyzq/fyzq711/1000/index.m3u8?&encrypt=
+风云足球,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 体育赛事,http://cctv5ksh5ca.v.kcdnvip.com/live/cctv5plus_2/index.m3u8
 体育赛事,http://223.110.247.161:6610/gitv/live1/G_CCTV-5PLUS-HQ/1.m3u8
 体育赛事,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
