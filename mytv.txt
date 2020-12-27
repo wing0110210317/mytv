@@ -90,9 +90,7 @@ CCTV-15音乐,http://117.148.187.37/PLTV/88888888/224/3221226112/index.m3u8
 体育赛事,http://183.207.248.71/cntv/live1/PUSSY/hdcctv05plus
 五星体育,http://183.207.255.197/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://112.25.48.14/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://39.135.248.141/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
-五星体育,http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
-五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+Best体育,http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 北京体育,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/3000/index.m3u8?&encrypt=
 广东体育,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/gdty/1000/index.m3u8?&encrypt=
 广东体育,http://www.ldiptv.xyz/daili/gdtv.php?id=47#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://106.53.212.251/daili/gztv.php?id=typd
