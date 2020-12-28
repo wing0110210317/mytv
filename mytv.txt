@@ -99,10 +99,10 @@ CCTV-15音乐,http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
 体育赛事,http://183.207.248.71/cntv/live1/PUSSY/hdcctv05plus
 五星体育,http://183.207.255.197/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://112.25.48.14/live/program/live/ssty/4000000/mnf.m3u8
-Best体育,http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 北京体育,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/3000/index.m3u8?&encrypt=
 广东体育,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/gdty/1000/index.m3u8?&encrypt=
 广东体育,http://www.ldiptv.xyz/daili/gdtv.php?id=47#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://106.53.212.251/daili/gztv.php?id=typd
+Best体育,http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 卫视频道,#genre#
 湖南卫视,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd-hunanhd-2500/index.m3u8?&encrypt=
 湖南卫视,http://ivi.bupt.edu.cn/hls/hunantv.m3u8
@@ -196,8 +196,6 @@ TVB功夫台,http://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225523/index.m3u8
 黑莓电影,http://223.110.247.161:6610/cntv/live1/jdianying/jdianying
 黑莓电影,http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=8785669936177902664&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7104871599213018997&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahNL9rsQ47%2FVPQ5I1mk1Euevu4ww4P7XntfNX2WiTOL8Ndvf6BV%2B2zKclmpoXZ7t90oK%2B2FmGgVhOPi8JUqoFyt9
-Dox环映,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-ox剧场,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
 动作电影,http://223.110.247.161:6610/cntv/live1/dongzuody/dongzuody
 动作电影,http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8103864434730665389/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=8103864434730665389&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=3005631599211934769&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahMC10emoTaFToe5V3piR4f0avcRvWzPl0AcPNAe7xTV5t%2FJZLi5YEbRlOmvEizKGbxDzcsoSa5fgRCmGgPZAX2S
 惊悚悬疑,http://223.110.247.161:6610/cntv/live1/jingsongxy/jingsongxy
