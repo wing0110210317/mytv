@@ -1,6 +1,7 @@
 央视频道,#genre#
 CCTV-1综合,http://cctv5ksh5ca.v.kcdnvip.com/live/cctv1_2/index.m3u8
 CCTV-1综合,http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
+CCTV-1综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 CCTV-1综合,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
 CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-1综合,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
@@ -9,6 +10,7 @@ CCTV-1综合,http://yuniptvunql.chinayungu.cn:65530/live/cctv1/index.m3u8
 CCTV-1综合,http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 CCTV-1综合,http://183.207.248.71/cntv/live1/PUSSY/cctv-1
 CCTV-3综艺,http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv3/HD-2500k-1080P-cctv3
+CCTV-3综艺,http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
 CCTV-3综艺,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&&encrypt=
 CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 CCTV-3综艺,http://dbiptv.sn.chinamobile.com/pltv/88888890/224/3221226397/index.m3u8
@@ -38,6 +40,7 @@ CCTV-6电影,http://cctv5ksh5ca.v.kcdnvip.com/live/cctv6_2/index.m3u8
 CCTV-6电影,http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv6/HD-2500k-1080P-cctv6
 CCTV-6电影,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?&encrypt=
 CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV-6电影,http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
 CCTV-6电影,http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
 CCTV-6电影,http://39.134.66.66/PLTV/88888888/224/3221225488/index.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
@@ -50,6 +53,7 @@ CCTV-8电视剧,http://cctv5ksh5ca.v.kcdnvip.com/live/cctv8_2/index.m3u8
 CCTV-8电视剧,http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
 CCTV-8电视剧,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?&encrypt=
 CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV-8电视剧,http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
 CCTV-8电视剧,http://112.17.40.140/PLTV/88888888/224/3221226330/index.m3u8
 CCTV-8电视剧,http://39.134.168.91/PLTV/1/224/3221225562/index.m3u8
 CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
@@ -75,6 +79,7 @@ CCTV-13新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV-15音乐,http://cctv5ksh5ca.v.kcdnvip.com/live/cctv15_2/index.m3u8
 CCTV-15音乐,http://223.110.247.161:6610/gitv/live1/G_CCTV-15/1.m3u8
 CCTV-15音乐,http://183.131.128.233/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv15hd/51/index.m3u8?&&encrypt=
+CCTV-15音乐,http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-15音乐,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8
 CCTV-15音乐,http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000008163/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000008163&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=9245961598894111453&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYyWl75POcVWV26eg8h1ULDfp2WGltqljPl5EfbrCsEcGa0hkOGif5Ra51OkzflTs7
