@@ -1,6 +1,7 @@
 央视频道,#genre#
 CCTV-1综合,http://cctv5ksh5ca.v.kcdnvip.com/live/cctv1_2/index.m3u8
 CCTV-1综合,http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
+CCTV-1综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230242/index.m3u8
 CCTV-1综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 CCTV-1综合,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
 CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
@@ -22,6 +23,7 @@ CCTV-3综艺,http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8
 CCTV-3综艺,http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
 CCTV-3综艺,http://183.207.248.71/cntv/live1/PUSSY/cctv-3
 CCTV-5体育,http://cctv5ksh5ca.v.kcdnvip.com/live/cctv5_2/index.m3u8
+CCTV-5体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228849/index.m3u8
 CCTV-5体育,http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5
 CCTV-5体育,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
 CCTV-5体育,http://dbiptv.sn.chinamobile.com/pltv/88888890/224/3221226395/index.m3u8
@@ -153,6 +155,7 @@ Best体育,http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 东方卫视,http://223.82.250.72/live/hddongfangstv/1.m3u8
 北京卫视,http://183.131.128.233/live.hcs.cmvideo.cn:8088/ws_w/2018/bjws/bjws711/1000/index.m3u8?&encrypt=
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
+北京卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229085/index.m3u8
 北京卫视,http://39.134.168.91/PLTV/1/224/3221225524/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com:80/PLTV/88888888/224/3221225728/index.m3u8
 北京卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
@@ -172,6 +175,7 @@ Best体育,http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 辽宁卫视,http://yuniptvunql.chinayungu.cn:65530/live/lnws/index.m3u8
 辽宁卫视,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
 安徽卫视,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/anhuiwshd/2000/index.m3u8?&encrypt=
+安徽卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230215/index.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com:80/PLTV/88888888/224/3221225631/index.m3u8
 安徽卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225873/1.m3u8
 安徽卫视,http://112.17.40.140/PLTV/88888888/224/3221226185/index.m3u8
@@ -180,6 +184,7 @@ Best体育,http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 安徽卫视,http://yuniptvunql.chinayungu.cn:65530/live/ahws/index.m3u8
 安徽卫视,http://219.153.252.50/PLTV/88888888/224/3221225534/chunklist.m3u8
 山东卫视,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd-shandonghd-1200/index.m3u8?&encrypt=
+山东卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221227909/index.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com:80/PLTV/88888888/224/3221225650/index.m3u8
 山东卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226487/1.m3u8
 山东卫视,http://112.17.40.140/PLTV/88888888/224/3221226587/index.m3u8
