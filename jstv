@@ -1,20 +1,20 @@
-CCTV1 8M1080,http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221227462/index.m3u8
-CCTV1 8M1080,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
-CCTV2 8M1080,http://183.207.249.167/ott.js.chinamobile.com/PLTV/3/224/3221227427/index.m3u8
-CCTV2 8M1080,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
-CCTV3 8M1080,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227424/index.m3u8
-CCTV3 8M1080,http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227623/index.m3u8
-CCTV4 5.5M1080HEVC,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-CCTV4 8M1080,http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221227489/index.m3u8
-CCTV5 8M1080,http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227466/index.m3u8
-CCTV5 8M1080,http://183.207.249.238/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
-CCTV5 Max16M1080,http://183.207.248.237/ott.js.chinamobile.com/PLTV/3/224/3221227537/index.m3u8
-CCTV5+ 8M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
-CCTV5+ 8M1080,http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221227480/index.m3u8
-CCTV6 7.5M1080HEVC,http://183.207.248.108/ott.js.chinamobile.com/PLTV/3/224/3221227581/index.m3u8
-CCTV6 8M1080,http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227430/index.m3u8
-CCTV7 8M1080,http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227626/index.m3u8
-CCTV7 8M1080,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
+CCTV1,http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227462/index.m3u8
+CCTV1,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
+CCTV2,http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227427/index.m3u8
+CCTV2,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+CCTV3,http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227424/index.m3u8
+CCTV3,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227623/index.m3u8
+CCTV4,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
+CCTV4,http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221227489/index.m3u8
+CCTV5,http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227466/index.m3u8
+CCTV5,http://183.207.249.238/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
+CCTV5,http://183.207.248.237/ott.js.chinamobile.com/PLTV/3/224/3221227537/index.m3u8
+CCTV5+,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
+CCTV5+,http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221227480/index.m3u8
+CCTV6,http://183.207.248.108/ott.js.chinamobile.com/PLTV/3/224/3221227581/index.m3u8
+CCTV6,http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227430/index.m3u8
+CCTV7,http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227626/index.m3u8
+CCTV7,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
 CCTV8 8M1080,http://183.207.248.168/ott.js.chinamobile.com/PLTV/3/224/3221227433/index.m3u8
 CCTV8 8M1080,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8 
 CCTV9 5.5M1080HEVC,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
