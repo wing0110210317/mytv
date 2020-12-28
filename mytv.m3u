@@ -445,7 +445,7 @@ http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="jsipTV",CCTV-8 电视剧
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-logo="httphttp://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="jsipTV",CCTV-9 记录
+#EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="jsipTV",CCTV-9 记录
 http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227704/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="jsipTV",CCTV-10 科教
 http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8
