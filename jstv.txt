@@ -79,7 +79,7 @@ CCTV-17农业,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/322122759
 广东卫视,http://223.110.243.161/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8
 广东卫视,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221225906/index.m3u8
 深圳卫视,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227624/index.m3u8
-深圳卫视,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
+深圳卫视,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
 深圳卫视,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
 深圳卫视,http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221225997/index.m3u8
 休闲频道,#genre#
