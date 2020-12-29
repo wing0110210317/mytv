@@ -1,8 +1,9 @@
 央视频道,#genre#
 CCTV-1综合,http://223.110.245.144/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
 CCTV-1综合,http://223.110.245.144/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
-CCTV-2财经,http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
-CCTV-2财经,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+CCTV-2财经,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
+CCTV-2财经,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
+CCTV-2财经,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
 CCTV-3综艺,http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227295/index.m3u8
 CCTV-3综艺,http://223.110.245.144/ott.js.chinamobile.com/PLTV/3/224/3221227295/index.m3u8
 CCTV-3综艺,http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8
