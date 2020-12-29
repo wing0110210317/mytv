@@ -28,9 +28,10 @@ CCTV-10科教,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/322122731
 CCTV-10科教,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
 CCTV-11戏曲,http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227384/index.m3u8
 CCTV-11戏曲,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-CCTV-12法律,http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221226019/index.m3u8
 CCTV-12法律,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
-CCTV-12法律,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+CCTV-12法律,http://223.110.243.161/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+CCTV-12法律,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+CCTV-12法律,http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221226019/index.m3u8
 CCTV-13新闻,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
 CCTV-13新闻,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221226021/index.m3u8
 CCTV-14少儿,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
