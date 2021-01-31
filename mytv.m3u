@@ -92,7 +92,7 @@ http://223.110.247.161:6610/cntv/live1/jdianying/jdianying
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="JSCMTV",明星大片
 http://223.110.247.161:6610/cntv/live1/mingxingdp/mingxingdp
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="aikanTV",CCTV-1综合
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=2
+http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="aikanTV",CCTV-3综艺
 http://dbiptv.sn.chinamobile.com/pltv/88888890/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="aikanTV",CCTV-体育赛事
@@ -104,7 +104,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="aikanTV",CCTV-8电视剧
 http://112.17.40.140/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="aikanTV",CCTV-13新闻
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=2
+http://112.17.40.140/PLTV/88888888/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="aikanTV",湖南卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228852/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="aikanTV",江苏卫视
@@ -138,7 +138,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="ksdn112TV",浙江卫视
 http://112.17.40.140/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="ksdn112TV",东方卫视
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&stbId=2
+http://223.82.250.72/live/hddongfangstv/1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="ksdn112TV",五星体育
 http://183.207.255.197/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="ksdn112TV",辽宁卫视
@@ -168,7 +168,7 @@ http://ivi.bupt.edu.cn/hls/hunantv.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="iviHDTV",江苏卫视
 http://ivi.bupt.edu.cn/hls/jstv.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="iviHDTV",浙江卫视
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=4945391150963996912&livemode=1&stbId=2
+http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="iviHDTV",东方卫视
 http://ivi.bupt.edu.cn/hls/dftv.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="iviHDTV",北京卫视
@@ -176,7 +176,7 @@ http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="iviHDTV",辽宁卫视
 http://ivi.bupt.edu.cn/hls/lnhd.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="iviHDTV",五星体育
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5000000010000017540&livemode=1&stbId=2
+http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="iviHDTV",劲爆体育
 http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="iviHDTV",新视觉台
@@ -229,8 +229,6 @@ http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227700/index.m3u8
 http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="jsipTV",山东卫视
 http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227621/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="TVupdate",CCTV-1综合
-http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="TVupdate",CCTV-3综艺
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="TVupdate",CCTV-体育赛事
@@ -241,18 +239,10 @@ http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="TVupdate",CCTV-8电视剧
 http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="TVupdate",CCTV-13新闻
-http://112.17.40.140/PLTV/88888888/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="TVupdate",湖南卫视
 http://223.82.250.72/live/hdhunanstv/1.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="TVupdate",江苏卫视
 http://223.82.250.72/live/hdjiangsustv/1.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="TVupdate",浙江卫视
-http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TVupdate",东方卫视
-http://223.82.250.72/live/hddongfangstv/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TVupdate",五星体育
-http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="TVupdate",北京卫视
 http://223.82.250.72/live/hdbeijingstv/1.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="TVupdate",安徽卫视
