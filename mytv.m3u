@@ -47,50 +47,6 @@ http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
 http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="JSipTV",黑莓电影
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="JSCMTV",CCTV-1综合
-http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="JSCMTV",CCTV-3综艺
-http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv3/HD-2500k-1080P-cctv3
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="JSCMTV",CCTV-体育赛事
-http://223.110.247.161:6610/gitv/live1/G_CCTV-5PLUS-HQ/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="JSCMTV",CCTV-5体育
-http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="JSCMTV",CCTV-6电影
-http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv6/HD-2500k-1080P-cctv6
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="JSCMTV",CCTV-8电视剧
-http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="JSCMTV",CCTV-13新闻
-http://223.110.247.161:6610/gitv/live1/G_CCTV-13-HQ/1.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="JSCMTV",CCTV-15音乐
-http://223.110.247.161:6610/gitv/live1/G_CCTV-15/1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="JSCMTV",湖南卫视
-http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="JSCMTV",江苏卫视
-http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="JSCMTV",浙江卫视
-http://223.110.254.210:6610/cntv/live1/zhejiangstv/zhejiangstv/1.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="JSCMTV",东方卫视
-http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="JSCMTV",五星体育
-http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="JSCMTV",北京卫视
-http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="JSCMTV",辽宁卫视
-http://223.110.247.161:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="JSCMTV",安徽卫视
-http://223.110.247.161:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="JSCMTV",山东卫视
-http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="JSCMTV",动作电影
-http://223.110.247.161:6610/cntv/live1/dongzuody/dongzuody
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="JSCMTV",惊悚悬疑
-http://223.110.247.161:6610/cntv/live1/jingsongxy/jingsongxy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="JSCMTV",精品大剧
-http://223.110.247.161:6610/cntv/live1/jdaju/jdaju
-#EXTINF:-1 tvg-id="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="JSCMTV",黑莓电影
-http://223.110.247.161:6610/cntv/live1/jdianying/jdianying
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="JSCMTV",明星大片
-http://223.110.247.161:6610/cntv/live1/mingxingdp/mingxingdp
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="aikanTV",CCTV-1综合
 http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="aikanTV",CCTV-3综艺
