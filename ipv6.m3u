@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="新闻",CCTV-1综合
+http://hdtv.lzu6.edu.cn/hls/hls27.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="综艺",CCTV-3综艺
+http://hdtv.lzu6.edu.cn/hls/hls74a3.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-体育赛事
+http://hdtv.lzu6.edu.cn/hls/hls73a6.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5体育
+http://hdtv.lzu6.edu.cn/hls/hls73a5.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电影",CCTV-6电影
+http://hdtv.lzu6.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="电视剧",CCTV-8电视剧
+http://hdtv.lzu6.edu.cn/hls/hls72a9.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻",CCTV-13新闻
+http://hdtv.lzu6.edu.cn/hls/hls186a13.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="电视剧",湖南卫视
+http://hdtv.lzu6.edu.cn/hls/hls71a15.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="电视剧",江苏卫视
+http://hdtv.lzu6.edu.cn/hls/hls116.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="电视剧",浙江卫视
+http://hdtv.lzu6.edu.cn/hls/hls123.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="电视剧",东方卫视
+http://hdtv.lzu6.edu.cn/hls/hls122.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="电视剧",辽宁卫视
+http://hdtv.lzu6.edu.cn/hls/hls126.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="电视剧",北京卫视
+http://hdtv.lzu6.edu.cn/hls/hls117.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="电视剧",安徽卫视
+http://hdtv.lzu6.edu.cn/hls/hls141.m3u8
