@@ -626,5 +626,16 @@
     "jiexiUrl": "",
     "group": "导入",
     "isActive": true
+  }，
+  {
+    "key": "8090zy",
+    "id": 99,
+    "name": "64、8090资源",
+    "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
   }
 ]
