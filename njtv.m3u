@@ -16,7 +16,7 @@ http://223.110.241.206:6610/jsyd/live1/G_CCTV-6-MD/G_CCTV-6-MD
 #EXTINF:-1 tvg-id="cctv-7" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-7/C7JSKDXTB.png",CCTV-7军事 农业
 http://223.110.241.206:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8
 #EXTINF:-1 tvg-id="cctv-8" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-8/C8JSKDXTB.png",CCTV-8电视剧
-http://223.110.241.206:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8
+http://223.110.241.206:6610/jsyd/live1/G_CCTV-8-MD/G_CCTV-8-MD
 #EXTINF:-1 tvg-id="CCTV-news" tvg-logo=http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-news/C9JSKDXTB.png",CCTV-9纪录
 http://223.110.241.206:6610/gitv/live1/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M
 #EXTINF:-1 tvg-id="cctv-10" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-10/C10JSKDXTB.png",CCTV-10科教
