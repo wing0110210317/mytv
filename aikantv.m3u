@@ -21,7 +21,7 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229110/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="电视剧",东方卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229092/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="体育",五星体育
+#EXTINF:-1 tvg-id="39" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" group-title="体育",五星体育
 http://112.25.48.14/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="电视剧",辽宁卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229112/index.m3u8
