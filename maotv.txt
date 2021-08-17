@@ -47,10 +47,10 @@
       "playUrl": ""
     },
     {
-      "key": "09蓝光影视",
-      "name": "09蓝光影视",
+      "key": "8090资源",
+      "name": "8090资源",
       "type": 0,
-      "api": "https://09tv.top/api.php/provide/vod/at/xml",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -207,10 +207,10 @@
       ]
     },
     {
-      "key": "墨鱼",
-      "name": "墨鱼",
+      "key": "09蓝光影视",
+      "name": "09蓝光影视",
       "type": 0,
-      "api": "http://www.moyuyingshi.com/api.php/provide/vod/at/xml",
+      "api": "https://09tv.top/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
