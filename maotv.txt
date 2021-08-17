@@ -207,10 +207,10 @@
       ]
     },
     {
-      "key": "明日资源",
-      "name": "明日资源",
+      "key": "好好资源",
+      "name": "好好资源",
       "type": 0,
-      "api": "https://watchmi.cc/api.php/provide/vod/at/xml",
+      "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     }
   ],
