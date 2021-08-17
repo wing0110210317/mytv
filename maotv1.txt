@@ -165,8 +165,8 @@
       ]
     },
     {
-      "key": "小小资源",
-      "name": "小小资源",
+      "key": "小小",
+      "name": "小小",
       "type": 1,
       "api": "http://haowywz.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
