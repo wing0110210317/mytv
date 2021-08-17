@@ -168,7 +168,7 @@
       "key": "追剧吧",
       "name": "追剧吧",
       "type": 0,
-      "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
         "综艺",
