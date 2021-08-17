@@ -165,8 +165,8 @@
       ]
     },
     {
-      "key": "豆瓣云",
-      "name": "豆瓣云",
+      "key": "2豆瓣云",
+      "name": "2豆瓣云",
       "type": 0,
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
