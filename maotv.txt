@@ -216,6 +216,41 @@
   ],
   "lives": [
     {
+      "group": "足球",
+      "channels": [
+        {
+          "name": "五星体育",
+          "urls": [
+            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "魅力足球",
+          "urls": [
+            "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "劲爆体育",
+          "urls": [
+            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "足球频道",
+          "urls": [
+            "http://nmglive.imfc.cn/5n1r1c/182396.m3u8"
+          ]
+        },
+        {
+          "name": "广东体育",
+          "urls": [
+            "http://149.129.100.78/guangdong.php?id=47"
+          ]
+        }
+      ]
+    },
+    {
       "group": "央视",
       "channels": [
         {
