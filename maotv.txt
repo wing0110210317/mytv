@@ -165,10 +165,10 @@
       ]
     },
     {
-      "key": "豆瓣云",
-      "name": "豆瓣云",
+      "key": "小小资源",
+      "name": "小小资源",
       "type": 1,
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
+      "api": "http://haowywz.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
