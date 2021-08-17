@@ -37,7 +37,7 @@
   ],
   "lives": [
     {
-      "group": "央视",
+      "group": "央",
       "channels": [
         {
           "name": "CCTV-1综合",
@@ -124,7 +124,7 @@
           ]
         },
     {
-      "group": "卫视",
+      "group": "卫",
       "channels": [
         {
           "name": "安徽卫视",
