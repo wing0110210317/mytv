@@ -77,7 +77,7 @@
       "key": "爱看影视",
       "name": "爱看影视",
       "type": 0,
-      "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
