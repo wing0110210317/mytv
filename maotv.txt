@@ -47,10 +47,10 @@
       "playUrl": ""
     },
     {
-      "key": "8090资源",
-      "name": "8090资源",
+      "key": "好好资源",
+      "name": "好好资源",
       "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+      "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -214,10 +214,10 @@
       "playUrl": ""
     },
     {
-      "key": "好好资源",
-      "name": "好好资源",
+      "key": "8090资源",
+      "name": "8090资源",
       "type": 0,
-      "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
       "playUrl": ""
     }
   ],
