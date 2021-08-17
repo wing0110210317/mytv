@@ -2,10 +2,10 @@
 {
   "sites": [
     {
-      "key": "快播云",
-      "name": "快播云",
+      "key": "M3U8.TV资源",
+      "name": "M3U8.TV资源",
       "type": 0,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "国产剧",
