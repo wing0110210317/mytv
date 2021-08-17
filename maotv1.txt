@@ -168,7 +168,7 @@
       "key": "小小影视",
       "name": "小小影视",
       "type": 1,
-      "api": "http://haowywz.com/api.php/provide/vod/at/xml/",
+      "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
         "综艺",
