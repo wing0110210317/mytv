@@ -356,12 +356,6 @@
       "group": "卫视",
       "channels": [
         {
-          "name": "安多卫视",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/anduostv/anduostv"
-          ]
-        },
-        {
           "name": "安徽卫视",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv",
