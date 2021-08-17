@@ -212,7 +212,6 @@
       "type": 0,
       "api": "http://www.moyuyingshi.com/api.php/provide/vod/at/xml",
       "playUrl": ""
-     ]
     },
     {
       "key": "好好资源",
