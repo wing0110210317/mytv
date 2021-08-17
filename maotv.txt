@@ -921,6 +921,7 @@
       "name": "默认解析",
       "url": "https://jx.7kjx.com/?url="
     },
+    {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
     },
