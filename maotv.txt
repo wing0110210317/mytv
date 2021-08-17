@@ -165,10 +165,10 @@
       ]
     },
     {
-      "key": "播放呀app",
-      "name": "播放呀app",
+      "key": "豆瓣云",
+      "name": "豆瓣云",
       "type": 1,
-      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
