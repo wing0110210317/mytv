@@ -211,8 +211,6 @@
           "name": "CCTV-1综合",
           "urls": [
             "http://223.110.241.206:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ
-          ]
-        }
       ]
     }
   ],
