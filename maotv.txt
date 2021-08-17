@@ -165,8 +165,8 @@
       ]
     },
     {
-      "key": "小小影视",
-      "name": "小小影视",
+      "key": "追剧吧",
+      "name": "追剧吧",
       "type": 1,
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "playUrl": "",
