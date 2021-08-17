@@ -2,10 +2,10 @@
 {
   "sites": [
     {
-      "key": "快播云",
-      "name": "快播云",
+      "key": "M3U8.TV资源",
+      "name": "M3U8.TV资源",
       "type": 0,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "国产剧",
@@ -47,38 +47,11 @@
       "playUrl": ""
     },
     {
-      "key": "柚子资源",
-      "name": "柚子资源",
+      "key": "09蓝光影视",
+      "name": "09蓝光影视",
       "type": 0,
-      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+      "api": "https://09tv.top/api.php/provide/vod/at/xml",
       "playUrl": "",
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作",
-        "喜剧",
-        "爱情",
-        "科幻",
-        "恐怖",
-        "剧情",
-        "战争",
-        "大陆剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "纪录",
-        "海外剧",
-        "蓝光电影",
-        "蓝光电视剧",
-        "蓝光动漫"
-      ]
-    },
-    {
-      "key": "乐多资源",
-      "name": "乐多资源",
-      "type": 0,
-      "api": "http://www.leduozy.com/inc/api.php",
-      "playUrl": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=",
       "categories": [
         "综艺",
         "动作片",
@@ -108,10 +81,10 @@
       ]
     },
     {
-      "key": "穿梭资源",
-      "name": "穿梭资源",
+      "key": "爱看影视",
+      "name": "爱看影视",
       "type": 0,
-      "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
+      "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "动作片",
@@ -142,10 +115,10 @@
       ]
     },
     {
-      "key": "安逸影院",
-      "name": "安逸影院",
+      "key": "饭团影院",
+      "name": "饭团影院",
       "type": 0,
-      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+      "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -165,10 +138,10 @@
       ]
     },
     {
-      "key": "2A资源站",
-      "name": "2A资源站",
+      "key": "蓝果影视",
+      "name": "蓝果影视",
       "type": 1,
-      "api": "http://zy.zcocc.com/api.php/provide/vod/",
+      "api": "http://www.languotv.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -207,10 +180,10 @@
       ]
     },
     {
-      "key": "7k资源",
-      "name": "7k资源",
+      "key": "播放呀app",
+      "name": "播放呀app",
       "type": 0,
-      "api": "https://zy.7kjx.com/cjapi.php",
+      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -228,131 +201,6 @@
         "欧美剧",
         "其他片"
       ]
-    },
-    {
-      "key": "蘑菇资源",
-      "name": "蘑菇资源",
-      "type": 0,
-      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "犯罪片",
-        "奇幻片",
-        "悬疑片",
-        "动画片",
-        "惊悚片",
-        "古装片",
-        "泰国剧",
-        "其他剧"
-      ]
-    },
-    {
-      "key": "88资源",
-      "name": "88资源",
-      "type": 0,
-      "api": "http://www.88zyw.net/inc/api.php",
-      "playUrl": "",
-      "categories": [
-        "综艺",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "东南亚剧",
-        "伦理",
-        "性感",
-        "日本动漫",
-        "纪录片",
-        "国产动漫",
-        "欧美动漫",
-        "里番",
-        "欧美片"
-      ]
-    },
-    {
-      "key": "39影视",
-      "name": "39影视",
-      "type": 0,
-      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧"
-      ]
-    },
-    {
-      "key": "追剧吧",
-      "name": "追剧吧",
-      "type": 0,
-      "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": [
-        "电影",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "悬疑片",
-        "灾难片",
-        "犯罪片",
-        "其他片",
-        "泰国剧",
-        "伦理片"
-      ]
-    },
-    {
-      "key": "明日资源",
-      "name": "明日资源",
-      "type": 0,
-      "api": "https://watchmi.cc/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "影派资源",
-      "name": "影派资源",
-      "type": 0,
-      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
     }
   ],
   "lives": [
@@ -522,10 +370,6 @@
     }
   ],
   "parses": [
-    {
-      "name": "默认解析",
-      "url": "https://jx.7kjx.com/?url="
-    },
     {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
