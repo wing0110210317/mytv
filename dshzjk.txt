@@ -2,8 +2,8 @@
 {
   "sites": [
     {
-      "key": "M3U8.资源",
-      "name": "M3U8.资源",
+      "key": "M3U8.tv资源",
+      "name": "M3U8.tv资源",
       "type": 0,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
       "playUrl": "",
