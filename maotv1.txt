@@ -165,8 +165,8 @@
       ]
     },
     {
-      "key": "追剧12吧",
-      "name": "追剧12吧",
+      "key": "追剧吧",
+      "name": "追剧吧",
       "type": 0,
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "playUrl": "",
