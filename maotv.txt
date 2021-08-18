@@ -81,10 +81,10 @@
       ]
     },
     {
-      "key": "飞鱼影视",
-      "name": "飞鱼影视",
+      "key": "爱看影视",
+      "name": "爱看影视",
       "type": 0,
-      "api": "https://app.feiyu5.com/api.php/provide/vod/",
+      "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -266,6 +266,13 @@
       "name": "白熊影视",
       "type": 0,
       "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "飞鱼影视",
+      "name": "飞鱼影视",
+      "type": 0,
+      "api": "https://app.feiyu5.com/api.php/provide/vod/",
       "playUrl": ""
     },
     {
