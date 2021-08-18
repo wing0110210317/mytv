@@ -506,10 +506,6 @@
       "url": "https://jx.7kjx.com/?url="
     },
     {
-      "name": "u猫",
-      "url": "http://jiex.cf/?url="
-    },
-    {
       "name": "第一",
       "url": "http://jiexi.sxmj.wang/jx.php?url="
     },
@@ -520,6 +516,10 @@
     {
       "name": "星空",
       "url": "http://60jx.com/?url="
+    },
+    {
+      "name": "u猫",
+      "url": "http://jiex.cf/?url="
     },
     {
       "name": "虾米",
