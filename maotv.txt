@@ -509,7 +509,11 @@
   ],
   "parses": [
     {
-      "name": "默认解析",
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "7K",
       "url": "https://jx.7kjx.com/?url="
     },
     {
@@ -647,10 +651,6 @@
     {
       "name": "磨菇",
       "url": "https://jx.wzslw.cn/?url="
-    },
-    {
-      "name": "OK",
-      "url": "https://okjx.cc/?url="
     },
     {
       "name": "维多",
