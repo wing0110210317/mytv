@@ -290,6 +290,13 @@
       "playUrl": ""
     },
     {
+      "key": "293影院",
+      "name": "293影院",
+      "type": 0,
+      "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "8090资源",
       "name": "8090资源",
       "type": 0,
