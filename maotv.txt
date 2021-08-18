@@ -511,10 +511,6 @@
     },
     },
     {
-      "name": "天堂",
-      "url": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
       "name": "第一",
       "url": "http://jiexi.sxmj.wang/jx.php?url="
     },
