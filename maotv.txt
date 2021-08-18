@@ -513,11 +513,15 @@
       "url": "https://jx.7kjx.com/?url="
     },
     {
-      "name": "第一",
-      "url": "http://jiexi.sxmj.wang/jx.php?url="
+      "name": "智能1",
+      "url": "https://9kjx.com/?url="
     },
     {
-      "name": "智能",
+      "name": "智能2",
+      "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "name": "智能3",
       "url": "https://vip.kurumit3.top/?v="
     },
     {
