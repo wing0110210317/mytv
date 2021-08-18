@@ -81,10 +81,10 @@
       ]
     },
     {
-      "key": "白熊影视",
-      "name": "白熊影视",
+      "key": "追剧吧",
+      "name": "追剧吧",
       "type": 0,
-      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
+      "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -252,6 +252,27 @@
       "name": "百度采集",
       "type": 1,
       "api": "https://api.bdjx.vip/api.php/provide/vod/",
+      "playUrl": ""
+    },
+    {
+      "key": "陈家影视",
+      "name": "陈家影视",
+      "type": 1,
+      "api": "https://www.cjt521.com/api.php/provide/vod/",
+      "playUrl": "https://jiexi.cjt521.com/?url="
+    },
+    {
+      "key": "飞鱼影视",
+      "name": "飞鱼影视",
+      "type": 1,
+      "api": "https://app.feiyu5.com/api.php/provide/vod/",
+      "playUrl": ""
+    },
+    {
+      "key": "白熊影视",
+      "name": "白熊影视",
+      "type": 0,
+      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
