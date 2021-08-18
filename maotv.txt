@@ -537,12 +537,12 @@
       "url": "http://60jx.com/?url="
     },
     {
-      "name": "u猫",
-      "url": "http://jiex.cf/?url="
-    },
-    {
       "name": "虾米",
       "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "u猫",
+      "url": "http://jiex.cf/?url="
     },
     {
       "name": "纯净解析",
