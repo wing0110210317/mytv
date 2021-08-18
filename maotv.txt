@@ -2,8 +2,8 @@
 {
   "sites": [
     {
-      "key": "M3U8.TV资源",
-      "name": "M3U8.TV资源",
+      "key": "M3U8.TV",
+      "name": "M3U8.TV",
       "type": 0,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
       "playUrl": "",
@@ -54,8 +54,8 @@
       "playUrl": ""
     },
     {
-      "key": "好好资源",
-      "name": "好好资源",
+      "key": "好好影院",
+      "name": "好好影院",
       "type": 0,
       "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
