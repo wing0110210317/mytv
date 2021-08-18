@@ -27,28 +27,28 @@
     },
     {
       "key": "afys_spider",
-      "name": "阿房影视",
+      "name": "爬虫源1",
       "type": 2,
       "api": "Scrawl1",
       "playUrl": ""
     },
     {
       "key": "jpys_spider",
-      "name": "极品影视",
+      "name": "爬虫源2",
       "type": 2,
       "api": "Scrawl2",
       "playUrl": ""
     },
     {
       "key": "mgys_spider",
-      "name": "暮光影视",
+      "name": "爬虫源3",
       "type": 2,
       "api": "Scrawl3",
       "playUrl": ""
     },
     {
       "key": "ysgc_spider",
-      "name": "影视工厂",
+      "name": "爬虫源4",
       "type": 2,
       "api": "Scrawl4",
       "playUrl": ""
