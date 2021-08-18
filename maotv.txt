@@ -85,7 +85,7 @@
       "name": "爱看影视",
       "type": 0,
       "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
-      "playUrl": "",
+      "playUrl": "https://vip.bljiex.com/?v=",
       "categories": [
         "综艺",
         "动漫",
@@ -203,7 +203,7 @@
       "name": "豆瓣云",
       "type": 0,
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
+      "playUrl": "https://vip.bljiex.com/?v=",
       "categories": [
         "综艺",
         "动作片",
@@ -266,7 +266,7 @@
       "name": "百度采集",
       "type": 1,
       "api": "https://api.bdjx.vip/api.php/provide/vod/",
-      "playUrl": ""
+      "playUrl": "https://vip.bljiex.com/?v="
     },
     {
       "key": "陈家影视",
@@ -294,7 +294,7 @@
       "name": "293影院",
       "type": 0,
       "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
-      "playUrl": ""
+      "playUrl": "https://vip.bljiex.com/?v="
     },
     {
       "key": "8090资源",
