@@ -248,6 +248,20 @@
       "playUrl": ""
     },
     {
+      "key": "yunboys.TV",
+      "name": "yunboys.TV",
+      "type": 0,
+      "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "天堂影视",
+      "name": "天堂影视",
+      "type": 0,
+      "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
+      "playUrl": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
       "key": "百度采集",
       "name": "百度采集",
       "type": 1,
@@ -490,6 +504,19 @@
     {
       "name": "默认解析",
       "url": "https://jx.7kjx.com/?url="
+    },
+    {
+      "name": "u猫",
+      "url": "http://jiex.cf/?url="
+    },
+    },
+    {
+      "name": "天堂",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "第一",
+      "url": "http://jiexi.sxmj.wang/jx.php?url="
     },
     {
       "name": "智能",
