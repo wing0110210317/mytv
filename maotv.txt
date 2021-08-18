@@ -81,10 +81,10 @@
       ]
     },
     {
-      "key": "追剧吧",
-      "name": "追剧吧",
+      "key": "飞鱼影视",
+      "name": "飞鱼影视",
       "type": 0,
-      "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
+      "api": "https://app.feiyu5.com/api.php/provide/vod/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -260,13 +260,6 @@
       "type": 1,
       "api": "https://www.cjt521.com/api.php/provide/vod/",
       "playUrl": "https://jiexi.cjt521.com/?url="
-    },
-    {
-      "key": "飞鱼影视",
-      "name": "飞鱼影视",
-      "type": 1,
-      "api": "https://app.feiyu5.com/api.php/provide/vod/",
-      "playUrl": ""
     },
     {
       "key": "白熊影视",
@@ -492,6 +485,18 @@
       "url": "https://jx.7kjx.com/?url="
     },
     {
+      "name": "智能",
+      "url": "https://vip.kurumit3.top/?v="
+    },
+    {
+      "name": "星空",
+      "url": "http://60jx.com/?url="
+    },
+    {
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
     },
@@ -506,10 +511,6 @@
     {
       "name": "B站解析2",
       "url": "https://www.cuan.la/m3u8.php?url="
-    },
-    {
-      "name": "虾米",
-      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "Ckplayer",
@@ -624,16 +625,8 @@
       "url": "https://jx.yaohuaxuan.com/?url="
     },
     {
-      "name": "智能",
-      "url": "https://vip.kurumit3.top/?v="
-    },
-    {
       "name": "星驰",
       "url": "https://vip.cjys.top/?url="
-    },
-    {
-      "name": "星空",
-      "url": "http://60jx.com/?url="
     },
     {
       "name": "月亮",
