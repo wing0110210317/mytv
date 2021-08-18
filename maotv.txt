@@ -47,6 +47,13 @@
       "playUrl": ""
     },
     {
+      "key": "ysgc_spider",
+      "name": "影视工厂",
+      "type": 2,
+      "api": "Scrawl4",
+      "playUrl": ""
+    },
+    {
       "key": "好好资源",
       "name": "好好资源",
       "type": 0,
@@ -211,6 +218,13 @@
       "name": "09蓝光影视",
       "type": 0,
       "api": "https://09tv.top/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "百度采集",
+      "name": "百度采集",
+      "type": 1,
+      "api": "https://api.bdjx.vip/api.php/provide/vod/",
       "playUrl": ""
     },
     {
