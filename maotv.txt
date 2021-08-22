@@ -248,10 +248,10 @@
       "playUrl": ""
     },
     {
-      "key": "yunboys.TV",
-      "name": "yunboys.TV",
+      "key": "播放呀app",
+      "name": "播放呀app",
       "type": 0,
-      "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml",
+      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
