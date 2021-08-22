@@ -108,10 +108,10 @@
       ]
     },
     {
-      "key": "橘猫影视",
-      "name": "橘猫影视",
+      "key": "蓝猫B站",
+      "name": "蓝猫B站",
       "type": 0,
-      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+      "api": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
         "综艺",
