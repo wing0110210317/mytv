@@ -108,10 +108,10 @@
       ]
     },
     {
-      "key": "蓝猫B站",
-      "name": "蓝猫B站",
+      "key": "明日资源",
+      "name": "明日资源",
       "type": 0,
-      "api": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
+      "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
         "综艺",
