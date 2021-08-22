@@ -203,7 +203,7 @@
       "name": "豆瓣云",
       "type": 0,
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
+      "playUrl": "https://api.jhdyw.vip/?url=",
       "categories": [
         "综艺",
         "动作片",
@@ -280,7 +280,7 @@
       "name": "白熊影视",
       "type": 0,
       "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
+      "playUrl": "https://api.jhdyw.vip/?url="
     },
     {
       "key": "飞鱼影视",
