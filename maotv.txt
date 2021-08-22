@@ -199,11 +199,11 @@
       ]
     },
     {
-      "key": "豆瓣云",
-      "name": "豆瓣云",
+      "key": "蘑菇资源",
+      "name": "蘑菇资源",
       "type": 0,
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://api.jhdyw.vip/?url=",
+      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
+      "playUrl": "",
       "categories": [
         "综艺",
         "动作片",
@@ -276,11 +276,11 @@
       "playUrl": "https://jiexi.cjt521.com/?url="
     },
     {
-      "key": "白熊影视",
-      "name": "白熊影视",
+      "key": "小蜻蜓采集",
+      "name": "小蜻蜓采集",
       "type": 0,
-      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://api.jhdyw.vip/?url="
+      "api": "http://3ketv.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
     },
     {
       "key": "飞鱼影视",
