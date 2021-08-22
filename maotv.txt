@@ -283,10 +283,10 @@
       "playUrl": ""
     },
     {
-      "key": "飞鱼影视",
-      "name": "飞鱼影视",
+      "key": "605资源",
+      "name": "605资源",
       "type": 0,
-      "api": "https://app.feiyu5.com/api.php/provide/vod/",
+      "api": "http://www.605zy.co/inc/api.php",
       "playUrl": ""
     },
     {
