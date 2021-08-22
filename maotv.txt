@@ -297,6 +297,20 @@
       "playUrl": "https://api.jhdyw.vip/?url="
     },
     {
+      "key": "新女神",
+      "name": "新女神",
+      "type": 0,
+      "api": "http://cms.tvbox543.com:80/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "真不卡",
+      "name": "真不卡",
+      "type": 0,
+      "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
+      "playUrl": "https://vip.bljiex.com/?v="
+    },
+    {
       "key": "8090资源",
       "name": "8090资源",
       "type": 0,
