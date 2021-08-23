@@ -26,6 +26,24 @@
       ]
     },
     {
+      "key": "hgys_spider",
+      "name": "HG影视",
+      "type": 2,
+      "api": "wkjskK5hA6Cxr7",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "zjdr_spider",
+      "name": "追剧达人",
+      "type": 2,
+      "api": "irB66BwzwhbL4r",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
       "key": "afys_spider",
       "name": "爬虫源1",
       "type": 2,
