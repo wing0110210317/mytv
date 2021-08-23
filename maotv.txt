@@ -25,7 +25,7 @@
         "纪录片"
       ]
     },
-    {
+   {
       "key": "hgys_spider",
       "name": "HG影视",
       "type": 2,
@@ -43,33 +43,39 @@
       "quickSearch": 0,
       "filterable": 1
     },
-    {
+ {
       "key": "afys_spider",
-      "name": "爬虫源1",
+      "name": "阿房影视",
       "type": 2,
       "api": "Scrawl1",
-      "playUrl": ""
+      "playUrl": "",
+      "searchable": 0,
+      "filterable": 1
     },
     {
       "key": "jpys_spider",
-      "name": "爬虫源2",
+      "name": "极品影视",
       "type": 2,
       "api": "Scrawl2",
-      "playUrl": ""
+      "playUrl": "",
+      "searchable": 0,
+      "filterable": 1
     },
     {
       "key": "mgys_spider",
-      "name": "爬虫源3",
+      "name": "暮光影视",
       "type": 2,
       "api": "Scrawl3",
-      "playUrl": ""
+      "playUrl": "",
+      "quickSearch": 0
     },
     {
       "key": "ysgc_spider",
-      "name": "爬虫源4",
+      "name": "影视工厂",
       "type": 2,
       "api": "Scrawl4",
-      "playUrl": ""
+      "playUrl": "",
+      "quickSearch": 0
     },
     {
       "key": "好好影院",
