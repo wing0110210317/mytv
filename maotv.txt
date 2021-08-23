@@ -27,7 +27,7 @@
     },
    {
       "key": "hgys_spider",
-      "name": "HG影视",
+      "name": "爬虫源1",
       "type": 2,
       "api": "wkjskK5hA6Cxr7",
       "playUrl": "",
@@ -36,7 +36,7 @@
     },
     {
       "key": "zjdr_spider",
-      "name": "追剧达人",
+      "name": "爬虫源2",
       "type": 2,
       "api": "irB66BwzwhbL4r",
       "playUrl": "",
@@ -45,7 +45,7 @@
     },
  {
       "key": "afys_spider",
-      "name": "阿房影视",
+      "name": "爬虫源3",
       "type": 2,
       "api": "Scrawl1",
       "playUrl": "",
@@ -54,7 +54,7 @@
     },
     {
       "key": "jpys_spider",
-      "name": "极品影视",
+      "name": "爬虫源4",
       "type": 2,
       "api": "Scrawl2",
       "playUrl": "",
@@ -63,7 +63,7 @@
     },
     {
       "key": "mgys_spider",
-      "name": "暮光影视",
+      "name": "爬虫源5",
       "type": 2,
       "api": "Scrawl3",
       "playUrl": "",
@@ -71,7 +71,7 @@
     },
     {
       "key": "ysgc_spider",
-      "name": "影视工厂",
+      "name": "爬虫源6",
       "type": 2,
       "api": "Scrawl4",
       "playUrl": "",
@@ -332,6 +332,13 @@
       "name": "真不卡",
       "type": 0,
       "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
+      "playUrl": "https://vip.bljiex.com/?v="
+    },
+    {
+      "key": "欧乐影院",
+      "name": "欧乐影院",
+      "type": 0,
+      "api": "https://www.olevod.com/api.php/provide/vod/at/xml",
       "playUrl": "https://vip.bljiex.com/?v="
     },
     {
