@@ -272,6 +272,13 @@
       "playUrl": ""
     },
     {
+      "key": "极品影视",
+      "name": "极品影视",
+      "type": 0,
+      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "播放呀app",
       "name": "播放呀app",
       "type": 0,
