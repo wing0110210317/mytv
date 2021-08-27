@@ -25,47 +25,47 @@
         "纪录片"
       ]
     },
-   {
-      "key": "hgys_spider",
+    {
+      "key": "jpysvip",
       "name": "爬虫源1",
       "type": 2,
-      "api": "wkjskK5hA6Cxr7",
+      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "quickSearch": 0,
       "filterable": 1
     },
     {
-      "key": "zjdr_spider",
+      "key": "zycaiji",
       "name": "爬虫源2",
       "type": 2,
-      "api": "irB66BwzwhbL4r",
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
       "playUrl": "",
       "quickSearch": 0,
       "filterable": 1
     },
  {
-      "key": "afys_spider",
+      "key": "88zy",
       "name": "爬虫源3",
       "type": 2,
-      "api": "Scrawl1",
+      "api": "http://www.88zy.live/inc/m3u8.php",
       "playUrl": "",
       "searchable": 0,
       "filterable": 1
     },
     {
-      "key": "jpys_spider",
+      "key": "51isu",
       "name": "爬虫源4",
       "type": 2,
-      "api": "Scrawl2",
+      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 0,
       "filterable": 1
     },
     {
-      "key": "mgys_spider",
+      "key": "dtjos",
       "name": "爬虫源5",
       "type": 2,
-      "api": "Scrawl3",
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "quickSearch": 0
     },
@@ -269,13 +269,6 @@
       "name": "09蓝光影视",
       "type": 0,
       "api": "https://09tv.top/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "极品影视",
-      "name": "极品影视",
-      "type": 0,
-      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
