@@ -942,12 +942,16 @@
       "url": "https://api.jhdyw.vip/?url="
     },
     {
+      "name": "游艺解析",
+      "url": "https://api.u1o.net/?url="
+    },
+    {
       "name": "飞跃",
       "url": "http://feiyue.rf.gd/jx/?v="
     },
     {
-      "name": "游艺",
-      "url": "http://api.u1o.net/?url="
+      "name": "白玉影视",
+      "url": "https://jx.baiyu.buzz/?url="
     },
     {
       "name": "Parwix解析",
