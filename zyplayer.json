@@ -303,7 +303,7 @@
     "name": "剧好看",
     "api": "https://www.juhaokan.cc/api.php/provide/vod/at/xml",
     "download": "",
-    "jiexiUrl": "http://player.maguays.cc/?url= ",
+    "jiexiUrl": "http://player.maguays.cc/?url=",
     "group": "优质",
     "isActive": true,
     "reverseOrder": false,
