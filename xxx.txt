@@ -1,0 +1,1399 @@
+{
+  "spider": "https://ybcx.coding.net/p/zyjk/d/1003.json/git/raw/master/custom_spider.jar?raw=true",
+"sites": [
+{
+        "key": "jpysvip-php",
+        "name": "æžå“å½±è§†php",
+        "type": 1,
+        "api": "http://zdhmm.cf/jpysvip.php",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+      "categories": [
+        "ç”µ å½±",
+        "å°æ¹¾å‰§",
+        "å›½äº§å‰§",
+        "é¦™æ¸¯å‰§",
+        "æ¬§ç¾Žå‰§",
+        "éŸ©å›½å‰§",
+        "æ—¥æœ¬å‰§",
+        "åŠ¨æ¼«",
+        "ç»¼è‰º"
+      ]
+},
+{
+"key": "tvci-php",
+"name": "å¤§å¸ˆå…„å½±è§†php",
+"type": 1,
+"api": "http://zdhmm.cf/tvci.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+        "ç”µ å½±",
+        "æ¸¯å°å‰§",
+        "å›½äº§å‰§",
+        "æ¬§ç¾Žå‰§",
+        "æ—¥éŸ©å‰§",
+        "åŠ¨æ¼«",
+        "ç»¼è‰º"
+      ]
+},
+{
+"key": "348z-php",
+"name": "348ç”µå½±-php",
+"type": 1,
+"api": "http://zdhmm.cf/348z.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+        "ç”µ å½±",
+        "æ¸¯å°å‰§",
+        "å›½äº§å‰§",
+        "æ¬§ç¾Žå‰§",
+        "æ—¥éŸ©å‰§",
+        "åŠ¨æ¼«",
+        "ç»¼è‰º"
+      ]
+},
+{
+"key": "libvio-php",
+"name": "libvioå½±è§†php",
+"type": 1,
+"api": "http://zdhmm.cf/libvio.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+        "æœ€ æ–°",
+        "ç”µ å½±",
+        "æ¬§ç¾Žå‰§",
+        "å›½äº§å‰§",
+        "æ—¥éŸ©å‰§",
+        "åŠ¨æ¼«"
+      ]
+},
+{
+"key": "jjuq-php",
+"name": "ç¥žé©¬å½±é™¢php",
+"type": 1,
+"api": "http://zdhmm.cf/jjuq.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+        "æ¸¯å°å‰§",
+        "å›½äº§å‰§",
+        "æ¬§ç¾Žå‰§",
+        "æ—¥éŸ©å‰§",
+        "ç”µ å½±",,
+        "åŠ¨ç”»ç‰‡",
+        "ç»¼è‰º"
+      ]
+},
+    {
+        "key": "cokemv-php",
+        "name": "ç„¦ç‚­å½±è§†php",
+        "type": 1,
+        "api": "http://zdhmm.cf/cokemv.php",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+      "categories": [
+        "å°ç£åŠ‡",
+        "å¤§é™¸åŠ‡",
+        "é¦™æ¸¯åŠ‡",
+        "æ­ç¾ŽåŠ‡",
+        "æ¬§ç¾Žå‰§",
+        "æ—¥æœ¬åŠ‡",
+        "éŸ“åœ‹åŠ‡",
+        "æ³°åœ‹åŠ‡",
+        "åŠ¨æ¼«",
+        "ç»¼è‰º"
+      ]
+    },
+{
+"key": "ltd-php",
+"name": "é˜¿é‡Œå½±è§†php",
+"type": 1,
+"api": "http://zdhmm.cf/ltd.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+		]
+},
+   {
+      "key": "miniku-php",
+      "name": "è¿·ä½ åº“php",
+      "type": 1,
+      "api": "http://zdhmm.cf/miniku.php",
+	  "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	  "filterable": 0,
+		"categories": [
+		]
+},
+   {
+      "key": "qqtvapp",
+      "name": "é›ªäººå½±è§†",
+      "type": 1,
+      "api": "http://zdhmm.cf/qqtvapp.php",
+	  "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	  "filterable": 0,
+	  "categories": [
+		]
+},
+{
+"key": "dijiaxia-php",
+"name": "ç“œçš®php",
+"type": 1,
+"api": "http://zdhmm.cf/dijiaxia.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+		]
+},
+{
+"key": "tgys-php",
+"name": "ç³–æžœphp",
+"type": 1,
+"api": "http://zdhmm.cf/tgys.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+		]
+},
+{
+"key": "saohuotv-php",
+"name": "éªšç«å½±è§†php",
+"type": 1,
+"api": "http://zdhmm.cf/saohuotv.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+        "ç”µå½±",
+        "å¤§é™†å‰§",
+        "TVBå‰§",
+        "ç¾Žå‰§",
+        "è‹±å‰§",
+        "æ—¥å‰§",
+        "éŸ©å‰§",
+        "åŠ¨æ¼«"
+      ]
+},
+{
+"key": "9rmb-php",
+"name": "94ç¥žé©¬php",
+"type": 1,
+"api": "http://zdhmm.cf/9rmb.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+		]
+},
+{
+"key": "xuangz-php",
+"name": "å…­åº¦TV php",
+"type": 1,
+"api": "http://zdhmm.cf/xuangz.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+		]
+},
+{
+"key": "kuaikan66-php",
+"name": "å¿«çœ‹å½±è§†php",
+"type": 1,
+"api": "http://zdhmm.cf/kuaikan66.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+		]
+},
+  {
+      "key": "è¿ªè¿ªå½±é™¢",
+      "name": "è¿ªè¿ªå½±é™¢",
+      "type": 0,
+      "api": "http://dd88.icu:6080/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "æ¸¯å°å‰§",
+        "å›½äº§å‰§",
+        "æ¬§ç¾Žå‰§",
+        "å“”å“©å“”å“©",
+        "åŠ¨ç”»ç‰‡",
+        "ç”µå½±",
+        "ç»¼è‰º"
+      ]
+  },
+  {
+      "key": "æµæ˜Ÿé›¨å½±è§†",
+      "name": "æµæ˜Ÿé›¨å½±è§†",
+      "type": 1,
+      "api": "http://syy.lxyyy.xyz/mv/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "æ¸¯å°å‰§",
+        "å›½äº§å‰§",
+        "æ—¥éŸ©å‰§",
+        "æ¬§ç¾Žå‰§",
+        "åŠ¨æ¼«",
+        "ç»¼è‰º"
+      ]
+  },
+  {
+      "key": "åƒå¯»å½±è§†",
+      "name": "åƒå¯»å½±è§†",
+      "type": 1,
+      "api": "http://wy.dqyhg.cn/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "æ¸¯å°å‰§",
+        "å›½äº§å‰§",
+        "æ—¥éŸ©å‰§",
+        "æ¬§ç¾Žå‰§",
+        "ç”µå½±",
+        "åŠ¨æ¼«",
+        "ç»¼è‰º"
+      ]
+  },
+{
+"key": "nkvob-php",
+"name": "æµ‹è¯•åˆ†ç•Œçº¿",
+"type": 1,
+"api": "http://zdhmm.cf/nkvob.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+		]
+},
+{
+"key": "kyikan-php",
+"name": "æµ‹è¯•åˆ†ç•Œçº¿1",
+"type": 1,
+"api": "http://zdhmm.cf/kyikan.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+		]
+},
+{
+"key": "cvcv-php",
+"name": "æµ‹è¯•åˆ†ç•Œçº¿2",
+"type": 1,
+"api": "http://zdhmm.cf/cvcv.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+		]
+},
+{
+"key": "fantuan-php",
+"name": "é¥­å›¢å½±è§†php",
+"type": 1,
+"api": "http://zdhmm.cf/fantuan.php",
+		"playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "filterable": 0,
+		"categories": [
+        "ç”µå½±",
+        "å›½äº§å‰§",
+        "æ¸¯å‰§",
+        "ç¾Žå‰§",
+        "æ—¥å‰§",
+        "éŸ©å‰§",
+        "åŠ¨æ¼«",
+        "ç»¼è‰º"
+      ]
+}
+  ],
+  "lives": [
+    {
+      "group": "è‡ªå®šä¹‰",
+      "channels": [
+        {
+          "name": "å‡¤å‡°ä¸­æ–‡",
+          "urls": [
+            "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P",
+			"http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
+			"http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
+			"http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8"
+          ]
+        },
+        {
+          "name": "å‡¤å‡°èµ„è®¯",
+          "urls": [
+            "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
+			"http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P",
+			"http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8",
+			"http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8",
+			"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+          ]
+        },
+        {
+          "name": "å‡¤å‡°é¦™æ¸¯",
+          "urls": [
+            "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804",
+			"http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8",
+			"http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P",
+            "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"
+          ]
+        },
+        {
+          "name": "HBO HD",
+          "urls": [
+            "http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8 "
+          ]
+        }
+      ]
+    },
+    {
+      "group": "å¤®è§†",
+      "channels": [
+        {
+          "name": "CCTV-1ç»¼åˆ",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=01",
+			"http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8",
+            "http://183.207.248.166/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8",
+            "http://183.207.248.107/ott.js.chinamobile.com/PLTV/3/224/3221227494/index.m3u8",
+            "http://183.207.248.166/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8",
+			"http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227644/index.m3u8",
+			"http://183.207.248.172/ott.js.chinamobile.com/PLTV/3/224/3221227641/index.m3u8",
+			"http://183.207.249.238/ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8",
+			"http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8",
+			"http://183.207.249.102/ott.js.chinamobile.com/PLTV/3/224/3221227431/index.m3u8",
+			"http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221227462/index.m3u8",
+			"http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-2è´¢ç»",
+          "urls": [
+                        "http://183.207.248.203/ott.js.chinamobile.com/PLTV/3/224/3221226993/index.m3u8",
+			"http://183.207.248.208/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8",
+			"http://183.207.249.167/ott.js.chinamobile.com/PLTV/3/224/3221227427/index.m3u8",
+			"http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8",
+			"http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8",
+                        "http://183.207.248.133/ott.js.chinamobile.com/PLTV/3/224/3221227543/index.m3u8",
+                        "http://117.169.124.36:6610/ysten-businessmobile/live/cctv-2/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=02",
+			"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2"
+          ]
+        },
+        {
+          "name": "CCTV-3ç»¼è‰º",
+          "urls": [
+                        "http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8",
+		        "http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8",
+			"http://183.207.248.231/ott.js.chinamobile.com/PLTV/3/224/3221227481/index.m3u8",
+			"http://183.207.248.142/ott.js.chinamobile.com/PLTV/3/224/3221227295/index.m3u8",
+			"http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8",
+			"http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227424/index.m3u8",
+			"http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=03"
+          ]
+        },
+        {
+          "name": "CCTV-4ä¸­æ–‡å›½é™…",
+          "urls": [
+            	        "http://112.74.200.9:88/tv000000/m3u8.php?/migu/672924435",
+			"http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8",
+			"http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227683/index.m3u8",
+			"http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8",
+			"http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221227489/index.m3u8",
+			"http://183.207.249.137/ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8",
+			"http://183.207.248.201/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8",
+			"http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227683/index.m3u8",
+			"http://183.207.248.230/ott.js.chinamobile.com/PLTV/3/224/3221227549/index.m3u8",
+                        "http://39.135.138.57:18890/PLTV/88888910/224/3221225621/index.m3u8",
+			"http://39.135.34.150:8080/000000001000/1000000002000031664/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=04",
+                        "http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5ä½“è‚²",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000004794/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=05",
+			"http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227640/index.m3u8",
+			"http://183.207.248.172/ott.js.chinamobile.com/PLTV/3/224/3221227298/index.m3u8",
+			"http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8",
+			"http://183.207.248.231/ott.js.chinamobile.com/PLTV/3/224/3221227452/index.m3u8",
+			"http://183.207.248.108/ott.js.chinamobile.com/PLTV/3/224/3221227478/index.m3u8",
+			"http://183.207.249.102/ott.js.chinamobile.com/PLTV/3/224/3221227686/index.m3u8",
+			"http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227466/index.m3u8",
+			"http://183.207.249.238/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8",
+			"http://183.207.248.237/ott.js.chinamobile.com/PLTV/3/224/3221227537/index.m3u8",
+			"http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227617/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5"
+          ]
+        },
+        {
+          "name": "CCTV-5+èµ›äº‹",
+          "urls": [
+            "http://39.135.138.58:18890/PLTV/88888910/224/3221225706/index.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=16",
+			"http://183.207.248.107/ott.js.chinamobile.com/PLTV/3/224/3221227381/index.m3u8",
+			"http://183.207.248.230/ott.js.chinamobile.com/PLTV/3/224/3221225604/index.m3u8",
+			"http://183.207.249.229/ott.js.chinamobile.com/PLTV/3/224/3221227522/index.m3u8",
+			"http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227685/index.m3u8",
+			"http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8",
+			"http://183.207.249.133/ott.js.chinamobile.com/PLTV/3/224/3221227463/index.m3u8",
+			"http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8",
+			"http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221227480/index.m3u8",
+			"http://183.207.248.231/ott.js.chinamobile.com/PLTV/3/224/3221227502/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-6ç”µå½±",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=06",
+			"http://183.207.249.208/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8",
+			"http://183.207.248.138/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8",
+			"http://183.207.248.138/ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8",
+			"http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8",
+			"http://183.207.248.108/ott.js.chinamobile.com/PLTV/3/224/3221227581/index.m3u8",
+			"http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227430/index.m3u8",
+			"http://183.207.248.175/ott.js.chinamobile.com/PLTV/3/224/3221227505/index.m3u8",
+			"http://39.134.39.37/PLTV/88888888/224/3221226148/index.m3u8",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8",
+            "http://111.40.196.9/PLTV/88888888/224/3221225590/index.m3u8",
+            "http://111.40.196.9/PLTV/88888888/224/3221225561/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-7å›½é˜²å†›äº‹",
+          "urls": [
+                        "http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168121",
+			"http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227314/index.m3u8",
+			"http://183.207.248.198/ott.js.chinamobile.com/PLTV/3/224/3221225546/index.m3u8",
+			"http://183.207.248.230/ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8",
+			"http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227626/index.m3u8",
+			"http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8",
+			"http://117.169.124.36:6610/ysten-businessmobile/live/cctv-7/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=07"
+          ]
+        },
+        {
+          "name": "CCTV-8ç”µè§†å‰§",
+          "urls": [
+                        "http://183.207.248.142/ott.js.chinamobile.com/PLTV/3/224/3221227304/index.m3u8",
+			"http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8",
+			"http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8",
+			"http://183.207.248.174/ott.js.chinamobile.com/PLTV/3/224/3221227750/index.m3u8",
+			"http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8",
+			"http://183.207.248.168/ott.js.chinamobile.com/PLTV/3/224/3221227433/index.m3u8",
+			"http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8",
+			"http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221227473/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9çºªå½•",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=09",
+			"http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8",
+			"http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227704/index.m3u8",
+			"http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8",
+			"http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-10ç§‘æ•™",
+          "urls": [
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878405",
+			"http://117.169.124.36:6610/ysten-businessmobile/live/cctv-10/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=10",
+			"http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8",
+			"http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8",
+			"http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-11æˆæ›²",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=11",
+			"http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8",
+			"http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-12ç¤¾ä¼šä¸Žæ³•",
+          "urls": [
+            "http://117.169.124.36:6610/ysten-businessmobile/live/cctv-12/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=12",
+			"http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8",
+			"http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12"
+          ]
+        },
+        {
+          "name": "CCTV-13æ–°é—»",
+          "urls": [
+            "http://39.135.138.57:18890/PLTV/88888910/224/3221225638/index.m3u8",
+            "http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=13",
+			"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8",
+			"http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227387/index.m3u8",
+			"http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
+            "http://111.40.196.9/PLTV/88888888/224/3221225504/index.m3u8",
+            "http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8",
+			"http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8",
+			"http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8",
+			"http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221227387/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-14å°‘å„¿",
+          "urls": [
+            "http://39.135.138.58:18890/PLTV/88888910/224/3221225639/index.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=14",
+			"http://183.207.249.106/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8",
+			"http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8",
+			"http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-15éŸ³ä¹",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=15",
+			"http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8",
+			"http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15",
+			"http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-17å†œä¸šå†œæ‘",
+          "urls": [
+            "http://39.135.138.58:18890/PLTV/88888910/224/3221225908/index.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=17",
+			"http://183.207.248.110/ott.js.chinamobile.com/PLTV/3/224/3221227578/index.m3u8",
+			"http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8",
+			"http://183.207.249.237/ott.js.chinamobile.com/PLTV/3/224/3221227592/index.m3u8",
+			"http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8",
+			"http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17"
+          ]
+        },
+        {
+          "name": "CETV-1ä¸­å›½æ•™è‚²",
+          "urls": [
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/649531734"
+          ]
+        },
+        {
+          "name": "CETV-2ä¸­å›½æ•™è‚²",
+          "urls": [
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/649532169"
+          ]
+        },
+        {
+          "name": "CETV-3ä¸­å›½æ•™è‚²",
+          "urls": [
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/649531756",
+	    "http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226577/1.m3u8"
+          ]
+        },
+        {
+          "name": "CETV-4ä¸­å›½æ•™è‚²",
+          "urls": [
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/649531725"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "å«è§†",
+      "channels": [
+        {
+          "name": "å››å·å«è§†",
+          "urls": [
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/630288361",
+            "http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv",
+            "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8",
+            "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8",
+            "http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8",
+            "http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv"
+          ]
+        },
+        {
+          "name": "å››å·æ–°é—»",
+          "urls": [
+            "http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8"
+          ]
+        },
+        {
+          "name": "å®œå®¾ç»¼åˆ",
+          "urls": [
+            "http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/ybgg_4000.m3u8&"
+          ]
+        },
+        {
+          "name": "å®œå®¾å…¬å…±",
+          "urls": [
+            "http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/ybxwzh_4000.m3u8&"
+          ]
+        },
+        {
+          "name": "äº‘å—å«è§†",
+          "urls": [
+            "http://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8",
+            "http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "è´µå·žå«è§†",
+          "urls": [
+        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil",
+        "rtsp://183.252.166.199:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil"
+          ]
+        },
+        {
+          "name": "é‡åº†å«è§†",
+          "urls": [
+            "http://39.135.138.57:18890/PLTV/88888910/224/3221225734/index.m3u8",
+            "http://39.135.138.57:18890/PLTV/88888910/224/3221225692/index.m3u8"
+          ]
+        },
+        {
+          "name": "æ¹–å—å«è§†",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=21",
+            "http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8"
+          ]
+        },
+        {
+          "name": "æ±Ÿè‹å«è§†",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000004684/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=22",
+            "http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8"
+          ]
+        },
+        {
+          "name": "æµ™æ±Ÿå«è§†",
+          "urls": [
+            "http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8",
+            "http://39.135.34.150:8080/000000001000/1000000001000009806/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=23",
+            "http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227692/index.m3u8",
+            "http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8"
+          ]
+        },
+        {
+          "name": "ä¸œæ–¹å«è§†",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000030202/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=26",
+            "http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8",
+            "http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8",
+            "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227688/index.m3u8",
+            "http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227511/index.m3u8"
+          ]
+        },
+        {
+          "name": "å±±ä¸œå«è§†",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000012807/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=32",
+            "http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8"
+          ]
+        },
+        {
+          "name": "æ·±åœ³å«è§†",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000011645/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=29",
+            "http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227624/index.m3u8",
+            "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8",
+            "http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227677/index.m3u8"
+          ]
+        },
+        {
+          "name": "å¤©æ´¥å«è§†",
+          "urls": [
+            "http://39.135.138.57:18890/PLTV/88888910/224/3221225739/index.m3u8",
+            "http://39.135.138.60:18890/PLTV/88888910/224/3221225698/index.m3u8",
+            "http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8"
+          ]
+        },
+        {
+          "name": "æ±Ÿè¥¿å«è§†",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000013731/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=33",
+            "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8",
+            "http://183.207.248.71:80/cntv/live1/jiangxistv/jiangxistv"
+          ]
+        },
+        {
+          "name": "å®‰å¾½å«è§†",
+          "urls": [
+            "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8",
+            "http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227643/index.m3u8"
+          ]
+        },
+        {
+          "name": "åŒ—äº¬å«è§†",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000017156/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=25"
+          ]
+        },
+        {
+          "name": "ä¸œå—å«è§†",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000002000009263/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=28",
+            "http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv",
+            "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8",
+            "http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8"
+          ]
+        },
+        {
+          "name": "å¹¿ä¸œå«è§†",
+          "urls": [
+            "http://39.135.34.150:8080/000000001000/1000000001000028357/1.m3u8?å¾®ä¿¡å…¬ä¼—å·ï¼šå¤ªé˜³è§†ç•Œ/tyzb00.php?id=27",
+            "http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv",
+            "http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8",
+            "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8",
+            "http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227445/index.m3u8"
+          ]
+        },
+        {
+          "name": "æ²³å—å«è§†",
+          "urls": [
+            "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil"
+          ]
+        },
+        {
+          "name": "æ²³åŒ—å«è§†",
+          "urls": [
+            "http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8"
+          ]
+        },
+        {
+          "name": "é»‘é¾™æ±Ÿå«è§†",
+          "urls": [
+            "http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8",
+            "http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8",
+            "http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8"
+          ]
+        },
+        {
+          "name": "æ¹–åŒ—å«è§†",
+          "urls": [
+            "http://117.148.179.160/PLTV/88888888/224/3221231888/index.m3u8",
+            "http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227565/index.m3u8",
+            "http://223.110.245.166/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8",
+            "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv"
+          ]
+        },
+        {
+          "name": "å‰æž—å«è§†",
+          "urls": [
+            "http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8"
+          ]
+        },
+        {
+          "name": "è¾½å®å«è§†",
+          "urls": [
+            "http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227700/index.m3u8",
+            "http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8",
+            "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8"
+          ]
+        },
+        {
+          "name": "æµ·å—å«è§†",
+          "urls": [
+            "http://39.135.138.57:18890/PLTV/88888910/224/3221225722/index.m3u8"
+          ]
+        },
+        {
+          "name": "é™•è¥¿å«è§†",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv",
+            "http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv"
+          ]
+        }
+      ]
+    }
+  ],
+"parses": [
+  {
+    "name": "Jsonå¹¶å‘",
+    "type": 2,
+    "url": "Parallel"
+  },
+  {
+    "name": "Jsonè½®è¯¢",
+    "type": 2,
+    "url": "Sequence"
+  },
+    {
+      "name": "äº¿æ±‡é€š",
+      "type": 0,
+      "url": "https://www.json.yihuiton.com/?url="
+    },
+    {
+      "name": "å˜€å“©å˜€å“©",
+      "type": 0,
+      "url": "https://app.diliktv.xyz/jx/?url="
+    },
+    {
+      "name": "æ•°ç ",
+      "type": 0,
+      "url": "http://tv.shuma.ink/?url="
+    },
+    {
+      "name": "äº‘æ’­è§£æž",
+      "type": 0,
+      "url": "https://jx.yunboys.cn/?url="
+    },
+    {
+      "name": "gbxy",
+      "type": 1,
+      "url": "https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url="
+    },
+    {
+      "name": "languang",
+      "type": 1,
+      "url": "http://cache.languang.icu:88/didi.php?url="
+    },
+    {
+      "name": "bdjxfw2",
+      "type": 1,
+      "url": "https://jiexi.bdjxfw.com/home/api?type=ys&uid=168882504&key=adfhjknyzACDFJOQU9&url="
+    },
+    {
+      "name": "cuan",
+      "type": 1,
+      "url": "https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url="
+    },
+    {
+      "name": "vipmv",
+      "type": 1,
+      "url": "http://jx.vipmv.co/json3/?url="
+    },
+    {
+      "name": "VodJX1",
+      "type": 1,
+      "url": "http://admin.vodjx.top/json.php?url="
+    },
+    {
+      "name": "bdjxfw1",
+      "type": 1,
+      "url": "https://jiexi.bdjxfw.com/home/api?type=ys&uid=226493678&key=bgmnouzCEHIKLMST29&url="
+    },
+    {
+      "name": "ptygx1",
+      "type": 1,
+      "url": "https://jhjx.ptygx.com/?url="
+    },
+    {
+      "name": "ptygx2",
+      "type": 1,
+      "url": "https://zajx.ptygx.com/?url="
+    },
+    {
+      "name": "mengx1",
+      "type": 1,
+      "url": "https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url="
+    },
+    {
+      "name": "bichangzw",
+      "type": 1,
+      "url": "http://play.bichangzw.cn/jianghu/json/?url="
+    },
+    {
+      "name": "mengx4",
+      "type": 1,
+      "url": "http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url="
+    },
+    {
+      "name": "3jx",
+      "type": 1,
+      "url": "https://user.3jx.net/api/?key=ZuJ2tlg5tXipxRtzOt&url="
+    },
+    {
+      "name": "mouliuk",
+      "type": 1,
+      "url": "https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="
+    },
+    {
+      "name": "parwix2206",
+      "type": 1,
+      "url": "https://vip.parwix.com:4433/analysis/json/?uid=2206&my=hmqwABCHILMNTV5678&url="
+    },
+    {
+      "name": "parwix654",
+      "type": 1,
+      "url": "https://api.parwix.com:4433/analysis/json/?uid=654&my=abdeinruvxyBDORWX7&url="
+    },
+    {
+      "name": "jxgg",
+      "type": 1,
+      "url": "http://jxgg.work/json.php?url="
+    },
+    {
+      "name": "52nn",
+      "type": 1,
+      "url": "https://www.52nn.online/home/api?type=ys&uid=10086&key=dhjrtvwAGJLSTVWZ19&url="
+    },
+    {
+      "name": "VodJX2",
+      "type": 1,
+      "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="
+    },
+    {
+      "name": "iopenyun",
+      "type": 1,
+      "url": "https://json.iopenyun.com:33/cms_m3u8_api.php?url="
+    },
+    {
+      "name": "3jx-1",
+      "type": 1,
+      "url": "https://user.3jx.net/api/?key=ZFoiCotT4OXurKsr6D&url="
+    },
+    {
+      "name": "byteamone",
+      "type": 1,
+      "url": "https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="
+    }
+,
+    {
+      "name": "æ±Ÿæ¹–äº‘",
+      "type": 0,
+      "url": "https://api.jhdyw.vip/?url="
+    },
+    {
+      "name": "tv758",
+      "type": 0,
+      "url": "http://bp.tv758.com:547/?url="
+    },
+    {
+      "name": "web3v",
+      "type": 0,
+      "url": "http://bt0472.web3v.vip/jx/?url="
+    },
+    {
+      "name": "ä¸ƒå“¥",
+      "type": 0,
+      "url": "https://jx.mmkv.cn/tv.php?url="
+    },
+    {
+      "name": "è¿½å‰§è¾¾äºº",
+      "type": 0,
+      "url": "https://vip123kan.vip/m3u8.php?url="
+    },
+    {
+      "name": "199cn",
+      "type": 0,
+      "url": "http://dm.199cn.cn/vip/?url="
+    },
+    {
+      "name": "ç†ŠçŒ«",
+      "type": 0,
+      "url": "https://json.xiongmiao888.cn/?url="
+    },
+    {
+      "name": "vip.parwix",
+      "type": 0,
+      "url": "https://vip.parwix.com:4433/player/analysis.php?v="
+    },
+    {
+      "name": "ä¹å–µ",
+      "type": 0,
+      "url": "http://jx.hao-zsj.cn/vip/?url="
+    },
+    {
+      "name": "éº’éºŸè“å…‰",
+      "type": 0,
+      "url": "https://jx.sujx.top/jiexi.php/?url="
+    },
+    {
+      "name": "okjx1",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "okjx2",
+      "type": 0,
+      "url": "https://api.okjx.cc:3389/jx.php?url="
+    },
+    {
+      "name": "é‡‘æŠ–äº‘",
+      "type": 0,
+      "url": "https://jf.4z.cm/jx/?url="
+    },
+    {
+      "name": "ç§’å¼€",
+      "type": 0,
+      "url": "https://jx.ppflv.com/?url="
+    },
+    {
+      "name": "æœ€å¼º",
+      "type": 0,
+      "url": "https://player.maqq.cn/?url="
+    },
+    {
+      "name": "äººäººè¿·è§£æž1",
+      "type": 0,
+      "url": "https://www.dianyingn.com/jiexi/?url="
+    },
+    {
+      "name": "äººäººè¿·è§£æž2",
+      "type": 0,
+      "url": "https://jiexi.moeamv.com/?url="
+    },
+    {
+      "name": "äººäººè¿·è§£æž3",
+      "type": 0,
+      "url": "https://api.gaotian.love/lgjson.php?url="
+    },
+    {
+      "name": "è™¾ç±³",
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "å°è’‹",
+      "url": "https://www.kpezp.cn/jlexi.php?url="
+    },
+    {
+      "name": "è§£æžla",
+      "url": "https://api.jiexi.la/?url="
+    },
+    {
+      "name": "8090",
+      "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "Ckplayer",
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "Parwixè§£æž",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "æ˜Žæ—¥",
+      "url": "https://jx.yingxiangbao.cn/vip.php?url="
+    },
+    {
+      "name": "BL",
+      "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "name": "Bç«™è§£æž2",
+      "url": "https://www.cuan.la/m3u8.php?url="
+    },
+    {
+      "name": "äº‘ç«¯",
+      "url": "https://jx.ergan.top/?url="
+    },
+    {
+      "name": "äº‘æž",
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "çº¯å‡€è§£æž",
+      "url": "https://z1.m1907.cn/?jx="
+    },
+    {
+      "name": "é«˜é€ŸæŽ¥å£1",
+      "url": "https://jsap.attakids.com/?url="
+    }
+  ],
+  "flags": [
+    "qq",
+    "qiyi",
+    "youku",
+    "sohu",
+    "bilibili",
+    "appplayer",
+    "fanqie",
+    "iqiyi",
+    "renrenmi",
+    "fqfilm",
+    "mx771",
+    "ppayun",
+    "rx",
+    "letv",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
+  "ijk": [
+    {
+      "group": "è½¯è§£ç ",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "group": "ç¡¬è§£ç ",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+ /* "spider": "http://91io.cn/s/366xvIK/custom_spider.jar",*/
+ "spider": "https://ybcx.coding.net/p/zyjk/d/1003.json/git/raw/master/custom_spider.jar?download=false",
+  /*"spider": "http://91io.cn/s/Y11zLuP/maoys.json",*/
+/* "spider": "https://gitee.com/ygwr123/dydz/raw/master/custom_spider.jar?raw=true",*/
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com"
+  ]
+}
