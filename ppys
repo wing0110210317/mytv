@@ -4,7 +4,7 @@
   "cateNode": "//ul[contains(@class,'header-menu hidden-xs')]/li/a[contains(@href, 'type_list/')]",
    "cateName": "/text()",
   "cateId": "/@href",
-  "cateIdR": "/(\\d+)/",
+  "cateIdR": "/type_list/",
   "cateManual": {
   "cateManual": {
 	  "连续剧": "dianshiju",
