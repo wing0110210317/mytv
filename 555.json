@@ -10,7 +10,7 @@
   	"连续剧":"2",
   	"综艺":"3",
   	"动漫":"4",
-  	"纪录片":"91",
+  	"纪录片":"91"
   	},
   "homeVodNode": "//ul[contains(@class, 'myui-vodlist')]/li/div[contains(@class, 'myui-vodlist__box')]",
   "homeVodName": "/a/@title",
