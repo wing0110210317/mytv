@@ -1,11 +1,16 @@
 {
   "ua": "",
   "homeUrl": "http://www.chinaboshan.com",
-  "cateNode": "//ul[contains(@class,'type_list')]/li/a[contains(@href, '.html')]",
+  "cateNode": "//ul[contains(@class,'header-menu hidden-xs')]/li/a[contains(@href, 'type_list/')]",
   "cateName": "/text()",
   "cateId": "/@href",
-  "cateIdR": "/list/(\\d+).html",
-  "cateManual": {},
+  "cateIdR": "/(\\d+).html",
+	"cateManual": {
+		"连续剧": "dianshiju",
+		"电影": "dianying",
+		"动漫": "dongman",
+		"综艺": "zongyi"
+	},
   "homeVodNode": "//ul[@class='v_list']/li/div[@class='v_img']",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
