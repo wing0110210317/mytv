@@ -6,11 +6,11 @@
   "cateId": "/@href",
   "cateIdR": "/(\\d+)/",
   "cateManual": {
-	"cateManual": {
-		"连续剧": "dianshiju",
-		"电影": "dianying",
-		"动漫": "dongman",
-		"综艺": "zongyi"
+  "cateManual": {
+	  "连续剧": "dianshiju",
+	  "电影": "dianying",
+	  "动漫": "dongman",
+	  "综艺": "zongyi"
   },
   "homeVodNode": "//ul[@class='img-list clearfix']/li[@class='@class='col-sm-5 col-xs-3'']",
   "homeVodName": "/a/@title",
