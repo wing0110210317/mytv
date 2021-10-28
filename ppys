@@ -17,7 +17,7 @@
   "homeVodIdR": "http://www.chinaboshan.com/gov-(\\w+).html",
   "homeVodImg": "/a/img/@data-original",
   "homeVodMark": "/div[@class='v_note']/text()",
-  "cateUrl": "http://www.chinaboshan.com/list/{cateId}-{catePg}.html",
+  "cateUrl": "http://www.chinaboshan.com/type_list/",
   "cateVodNode": "//ul[@class='img-list clearfix']/li[@class='@class='col-sm-5 col-xs-3'']",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
