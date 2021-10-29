@@ -1,4 +1,9 @@
 { 
+8k星光 http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml
+	
+	
+	
+	
 "spider":"https://github.com/Tangsan99999/tv/blob/main/custom_spider.jar?raw=true",
 "sites": [
 {"key":"csp_Nfx","name":"NFXHD(爬虫)","type":3,"api":"csp_Nfx","searchable":1,"quickSearch":1,"filterable":1},
