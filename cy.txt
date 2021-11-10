@@ -9,6 +9,7 @@ https://www.donao.tv/
 https://www.italkbbtv.com/
 https://yaya989.com/
 https://ouhua.tv/
+http://www.yudaoshiy.com/
 1717资源,http://zy.itono.cn/inc/api.php,解析
 8090资源,http://zy.yilans.net:8090/api.php/provide/vod/at/xml,解析
 萌果资源,http://api.appearoo.top/api.php/provide/vod/at/xml,解析
