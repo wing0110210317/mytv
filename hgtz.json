@@ -114,7 +114,7 @@
 { "name": "大熊影视", "type": 1, "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=7631191&key=cdemqsxFGKLNRVXYZ9&url=", "ext": { "flag": ["youku","优酷","qq","腾讯","qiyi","爱奇艺","奇艺", "letv", "乐视", "sohu", "搜狐","pptv","xigua"] } },
 { "name": "第五影视", "type": 1, "url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=ehjnotEHJLUVWY1578&url=", "ext": { "flag": ["youku","优酷","qq","腾讯","qiyi","爱奇艺","奇艺", "letv", "乐视", "sohu", "搜狐","pptv","xigua"] } },
 { "name": "融兴影视", "type": 1, "url": "https://vvip.funsline.cn/api/?key=JNiddoRwmLBYehxnFq&url=", "ext": { "flag": ["rx","youku","优酷","qq","腾讯","qiyi","爱奇艺","奇艺", "letv", "乐视", "sohu", "搜狐","pptv","xigua"] } },
-{"name": "次元动漫","type": 1,"url":"https://ysjx.jikezhuji.com/api/?key=MoTm78pVJ1ykAZuU6h&url=","ext": {"flag": ["qq", "腾讯","youku","优酷","mgtv","芒果","imgo","qiyi","爱奇艺","奇艺","dplayer"]},
+{"name": "次元动漫","type": 1,"url":"https://ysjx.jikezhuji.com/api/?key=MoTm78pVJ1ykAZuU6h&url=","ext": {"flag": ["qq", "腾讯","youku","优酷","mgtv","芒果","imgo","qiyi","爱奇艺","奇艺","dplayer"]}},
 { "name": "影视猫", "type": 1, "url": "proxy://do=YingShiMao&url=","ext": {"flag": ["youku","优酷","qq","腾讯","qiyi","爱奇艺","奇艺", "letv", "乐视", "sohu", "搜狐"]}},
 { "name": "1080看视界", "type": 1, "url": "http://catvod.pp.ua/jx/1080jx.php?url=", "ext": { "flag": [ "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV",  "letv", "乐视", "mgtv", "芒果", "renrenmi","wuduzy","duoduozy" ,"laodim3u8","dbm3u8","xfyun" ] } },
 { "name": "293影视", "type": 1, "url": "http://119.91.206.244:8088/jx/293json.php?url=", "ext": { "flag": ["youku","优酷","qq","腾讯","qiyi","爱奇艺","奇艺", "letv", "乐视", "sohu", "搜狐","pptv","xigua"] } },
