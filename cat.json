@@ -83,7 +83,7 @@
   ],
   "lives": [
 {"name": "98nb代理源","type": 0,"url": "http://vod.98nb.com/lives/tv.php","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
-{"name": "江苏移动ipv6","type": 0,"url": "https://wingzoho.eu.org/jstv.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
+{"name": "江苏移动ipv6","type": 0,"url": "https://raw.githubusercontent.com/wing0110210317/mytv/master/jstv.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
 {"name": "DRPY整理源","type": 0,"url": "https://wing.run.goorm.io/lives","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
 {"name": "体育影视4K源","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
 {"name": "热门平台直播","type": 0,"url": "https://wingzoho.eu.org/zhibo.txt","epg": "","logo": "","ua": ""},
