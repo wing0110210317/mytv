@@ -1,6 +1,6 @@
 {
     "sites": [
-{"key": "csp_xpath_pianku","name": "📚片库网","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://wingzoho.eu.org/xpath/pianku.json"},
+{"key": "csp_xpath_pianku","name": "📚片库网","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/pianku.json"},
 { "key": "dr_天空影视", "name": "🌠天空影视", "type": 3, "api": "https://wing.run.goorm.io/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://wing.run.goorm.io/admin/view/天空影视.js" },
 { "key": "dr_番茄影视", "name": "🍅番茄影视", "type": 3, "api": "https://wing.run.goorm.io/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://wing.run.goorm.io/admin/view/番茄影视.js" },
 { "key": "dr_8号影院", "name": "🎀8号影院", "type": 3, "api": "https://wing.run.goorm.io/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://wing.run.goorm.io/admin/view/8号影院.js" },
@@ -35,7 +35,7 @@
    "ext": "https://wing.run.goorm.io/admin/view/小猫咪.js"
   },
 {"key": "csp_xpath_duboku2","name": "🚩独播库","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://wingzoho.eu.org/xpath/duboku2.json"},
-{"key": "csp_xpath_voflix","name": "💢VOFLIX HD","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://wingzoho.eu.org/xpath/voflix.json"},
+{"key": "csp_xpath_voflix","name": "💢VOFLIX HD","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/voflix.json"},
 {"key": "csp_xpath_52hntv","name": "🐬海纳TV","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://wingzoho.eu.org/xpath/52hntv.json"},
 {"key": "csp_Lgyy","name": "🐦蓝光影院","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xpath_olevod","name":"♓欧乐影院","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://wingzoho.eu.org/xpath/olevod.json"},
@@ -62,7 +62,7 @@
 {"key": "csp_Wmkk","name": "🌀完美看看","type": 3,"api": "csp_Wmkk","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_IkanHtml","name": "💡爱看影视","type": 3,"api": "csp_IkanHtml","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Yanet","name": "🐣鸭奈飞","type": 3,"api": "csp_Yanet","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_xpath_dmxq","name": "🍨大米星球","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://wingzoho.eu.org/xpath/dmxq.json"},
+{"key": "csp_xpath_dmxq","name": "🍨大米星球","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/dmxq.json"},
 {"key":"csp_Ysgc","name":"🛅影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_青苹果","name": "🍏青苹果","type": 4,"api": "http://wingzoho.eu.org/php/qingpingguo.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Yiqik","name": "❤一起看","type": 3,"api": "csp_Yiqik","searchable": 1,"quickSearch": 1,"filterable": 1},
