@@ -82,7 +82,7 @@
 {"key": "push_agent","name": "🔀推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://vod.98nb.com/gzpz/token.txt"}
   ],
   "lives": [
-{"name": "江苏移动ipv6","type": 0,"url": "https://raw.githubusercontent.com/wing0110210317/mytv/master/jstv.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
+{"name": "江苏移动ipv6","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/wing0110210317/mytv/master/jstv.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
 {"name": "体育影视4K源","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
 {"name": "EPG全球電視節目","type": 0,"url": "https://epg.pm/test_channel.m3u","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "","ua": ""},
 {"group": "redirect","channels": [{"name": "电视直播","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3dpbmd6b2hvLmV1Lm9yZy85OG5iLnR4dA=="]}],"epg":"https://epg.112114.xyz/?ch={name}","logo": "","ua": ""}
