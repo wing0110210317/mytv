@@ -52,6 +52,10 @@
   ],
   "lives": [
 {"name": "江苏移动ipv6","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/wing0110210317/mytv/master/jstv.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
+{"name": "上海百视通","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
+{"name": "重庆有线","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
+{"name": "APTV可回放","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
+{"name": "ipv6稳定源","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
 {"name": "体育影视4K源","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
 {"name": "EPG全球電視節目","type": 0,"url": "https://epg.pm/test_channel.m3u","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "","ua": ""},
 {"group": "redirect","channels": [{"name": "电视直播","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3dpbmd6b2hvLmV1Lm9yZy85OG5iLnR4dA=="]}],"epg":"https://epg.112114.xyz/?ch={name}","logo": "","ua": ""}
