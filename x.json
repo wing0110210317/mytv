@@ -42,7 +42,7 @@
    "name": "💎云镜影视",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-   "searchable":1,
+   "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/云镜影视.js"
