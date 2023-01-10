@@ -76,6 +76,8 @@
    "filterable": 1,
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大米星球.js"
   },
+{ "key": "dr_饭团", "name": "🍘饭团", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/饭团.js" },
+{ "key": "dr_fositv", "name": "⛎Fositv", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/fositv.js" },
 {"key": "csp_AliPS","name": "🐱喵狸盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
 {"key": "csp_Gitcafe","name": "📑小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
 {"key": "csp_Upso","name": "🆙UP云搜","type": 3,"api": "csp_Upso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
