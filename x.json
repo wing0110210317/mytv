@@ -86,6 +86,8 @@
   "lives": [
 {"name": "江苏移动ipv6","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/wing0110210317/mytv/master/jstv.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
 {"name": "上海百视通","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
+{"name": "大杂烩","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
+{"name": "港澳台电视","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/TreeYI2022/IPV6/main/ipv6gj.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
 {"name": "重庆有线","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
 {"name": "APTV可回放","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
 {"name": "ipv6稳定源","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
