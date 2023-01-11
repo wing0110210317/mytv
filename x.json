@@ -62,14 +62,42 @@
    "key": "dr_188看",
    "name": "📛188影视",
    "type": 3,
-   "api": "https://wing.run.goorm.io/libs/drpy.min.js",
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://wing.run.goorm.io/admin/view/188看.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/188看.js"
   },
 { "key": "dr_看看电影", "name": "♓看看电影", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看看电影.js" },
 { "key": "dr_fositv", "name": "⛎Fositv", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/fositv.js" },
+{
+   "key": "dr_城市电影",
+   "name": "🏠城市电影",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/城市电影.js"
+  },{ "key": "dr_新视觉影视", "name": "🔮新视觉", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/新视觉影视.js" },{
+   "key": "dr_莫扎兔",
+   "name": "🐰莫扎兔",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/莫扎兔.js"
+  },{
+   "key": "dr_吼吼[飞]",
+   "name": "🎈吼吼TV",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/吼吼[飞].js"
+  },
 {"key": "csp_AliPS","name": "🐱喵狸盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
 {"key": "csp_Gitcafe","name": "📑小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
 {"key": "csp_Upso","name": "🆙UP云搜","type": 3,"api": "csp_Upso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
