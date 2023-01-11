@@ -7,7 +7,7 @@
 {"key": "csp_xpath_wuye","name": "🔎午夜影院","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/wuye.json"},
 {"key": "csp_Hlys","name": "♠黑料影视","type": 3,"api": "csp_Hlys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Cokemv","name": "🥤CokeMV","type": 3,"api":"csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_DY6080","name": "🍟新视觉影院","type": 3,"api": "csp_DY6080","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_DY6080","name": "🔮新视觉影院","type": 3,"api": "csp_DY6080","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Fnsp","name": "🐝蜂鸟app","type": 3,"api": "csp_Fnsp","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Mrys","name": "⛅明日影视","type": 3,"api": "csp_Mrys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Guazi","name": "🌻瓜子TV","type": 3,"api": "csp_Guazi","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -79,7 +79,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/城市电影.js"
-  },{ "key": "dr_新视觉影视", "name": "🔮新视觉", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/新视觉影视.js" },{
+  },{
    "key": "dr_莫扎兔",
    "name": "🐰莫扎兔",
    "type": 3,
