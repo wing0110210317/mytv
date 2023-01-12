@@ -17,7 +17,6 @@
 {"key": "csp_Yanet","name": "🐣鸭奈飞","type": 3,"api": "csp_Yanet","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Yiqik","name": "❤一起看","type": 3,"api": "csp_Yiqik","searchable": 1,"quickSearch": 1,"filterable": 1},
 { "key": "dr_天空影视", "name": "🌠天空影视", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天空影视.js" },
-{ "key": "dr_8号影院", "name": "🎀8号影院", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js" },
 {
    "key": "dr_双十电影",
    "name": "🌵双十电影",
