@@ -2,6 +2,7 @@
     "sites": [
 {"key": "csp_xpath_voflix","name": "💢VOFLIX HD","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/voflix.json"},
 {"key": "csp_Kunyu","name": "🎈酷云77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Kuaikan","name": "🍒红豆影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xpath_coffeefox","name": "🦊咖啡狐","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/coffeefox.json"},
 {"key": "csp_xpath_wuye","name": "🔎午夜影院","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/wuye.json"},
 {"key": "csp_Hlys","name": "♠黑料影视","type": 3,"api": "csp_Hlys","searchable": 1,"quickSearch": 1,"filterable": 1},
