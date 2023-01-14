@@ -21,6 +21,7 @@
 {"key": "csp_DY6080","name": "🔮新视觉影院","type": 3,"api": "csp_DY6080","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Fnsp","name": "🐝蜂鸟app","type": 3,"api": "csp_Fnsp","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bulei","name": "🐦布雷app","type": 3,"api": "csp_Bulei","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Czsapp","name": "📙厂长资源","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Mrys","name": "⛅明日影视","type": 3,"api": "csp_Mrys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Guazi","name": "🌻瓜子TV","type": 3,"api": "csp_Guazi","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Hei19","name": "🍅石榴影视","type": 3,"api": "csp_Hei19","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -30,6 +31,7 @@
 {"key": "csp_Yanet","name": "🐣鸭奈飞","type": 3,"api": "csp_Yanet","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Yiqik","name": "❤一起看","type": 3,"api": "csp_Yiqik","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Xxys","name": "🧸小熊影视","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Nmys","name": "🌽农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 { "key": "dr_天空影视", "name": "🌠天空影视", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天空影视.js" },
 {
    "key": "dr_双十电影",
@@ -117,7 +119,7 @@
   ],
   "lives": [
 {"name": "江苏移动ipv6","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/wing0110210317/mytv/master/jstv.m3u","epg": "https://epg.112114.xyz/?ch={name}","logo": "","ua": ""},
-{"name": "上海百视通","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
+{"name": "爱尚","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
 {"name": "大杂烩","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
 {"name": "港澳台电视","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/TreeYI2022/IPV6/main/ipv6gj.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
 {"name": "重庆有线","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": ""},
