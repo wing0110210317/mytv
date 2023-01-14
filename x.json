@@ -1,5 +1,15 @@
 {
     "sites": [
+{
+   "key": "dr_drpy",
+   "name": "💚豆瓣评分",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"
+  },
 {"key": "csp_xpath_voflix","name": "💢VOFLIX HD","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/voflix.json"},
 {"key": "csp_Kunyu","name": "🎈酷云77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Kuaikan","name": "🍒红豆影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
