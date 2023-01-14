@@ -48,7 +48,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/诺讯影视.js"
-  },
+  },{ "key": "dr_乐猪TV", "name": "🐽乐猪TV(drpy)", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js" },
 {
    "key": "dr_大米星球",
    "name": "🍚大米星球",
@@ -80,7 +80,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/城市电影.js"
-  },{
+  },{ "key": "dr_8号影院", "name": "🎀8号影院(drpy)", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js" },{
    "key": "dr_莫扎兔",
    "name": "🐰莫扎兔",
    "type": 3,
