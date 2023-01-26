@@ -117,7 +117,6 @@
   },
 {"key": "csp_AliPS","name": "🐱喵狸盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
 {"key": "csp_Gitcafe","name": "📑小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
-{"key": "csp_Upso","name": "🆙UP云搜","type": 3,"api": "csp_Upso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
 {"key": "push_agent","name": "🔀推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://vod.98nb.com/gzpz/token.txt"}
   ],
   "lives": [
