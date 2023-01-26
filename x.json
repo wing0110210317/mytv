@@ -12,7 +12,7 @@
   },
 {"key": "csp_xpath_pianku","name": "📚片库网","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/pianku.json"},
 {"key": "csp_xpath_voflix","name": "💢VOFLIX HD","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/voflix.json"},
-{"key": "buka","name": "🌹爱看电影","type": 3,"api": "csp_BukaHtml","searchable": 0,"quickSearch": 1,"filterable": 1},
+{"key": "buka","name": "🌹爱看电影","type": 3,"api": "csp_BukaHtml","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_LiteApple","name": "🍎小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable":1, "playerType":1},
 {"key": "csp_AppTV","name": "💯图图TV","type": 3,"api": "csp_AppTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Kunyu","name": "🎈酷云77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
