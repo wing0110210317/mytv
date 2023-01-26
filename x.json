@@ -33,7 +33,7 @@
 {"key": "csp_Subb","name": "🥬素白白","type": 3,"api": "csp_Subb","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Yanet","name": "🐣鸭奈飞","type": 3,"api": "csp_Yanet","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Yiqik","name": "❤一起看","type": 3,"api": "csp_Yiqik","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "lanlan","name": "💤懒懒","type": 3,"api": "csp_Lanlan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "lanlan","name": "💤懒懒影视","type": 3,"api": "csp_Lanlan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Xxys","name": "🧸小熊影视","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Nmys","name": "🌽农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/nmys.json"},
 { "key": "dr_天空影视", "name": "🌠天空影视", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天空影视.js" },
