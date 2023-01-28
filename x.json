@@ -125,6 +125,7 @@
    "filterable": 1,
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/吼吼[飞].js"
   },
+{"key":"csp_biubiu_神马影院","name":"🐎神马影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/wing0110210317/mytv/raw/master/神马影院.json"},
 {"key": "csp_AliPS","name": "🐱喵狸盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
 {"key": "csp_Gitcafe","name": "📑小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.98nb.com/gzpz/token.txt"},
 {"key":"drpy_js_Alist","name":"💽网盘合集","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json;50;video"},
