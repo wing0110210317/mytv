@@ -1029,9 +1029,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225956/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgwx5.2345.com/dypcimg/mversion/pic/channelLogo/jstv.png" group-title="江苏",江苏好享购物
 http://ott.mobaibox.com/PLTV/3/224/3221227570/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227292/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://ott.mobaibox.com/PLTV/3/224/3221225868/index.m3u8
