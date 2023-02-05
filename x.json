@@ -45,7 +45,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/饭团影视.js"
-  },
+  },{ "key": "dr_咕噜咕噜", "name": "🍺咕噜咕噜", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/咕噜咕噜.js" },
 { "key": "dr_天空影视", "name": "🌠天空影视", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天空影视.js" },
 {
    "key": "dr_双十电影",
@@ -116,7 +116,19 @@
    "quickSearch": 1,
    "filterable": 0,
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/莫扎兔.js"
-  },{
+  },
+{ "key": "dr_八蛋影视", "name": "🥚八蛋影视", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/八蛋影视.js" },
+{
+   "key": "dr_时光影视",
+   "name": "🌅时光影视",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/时光影视.js"
+  },
+{
    "key": "dr_吼吼[飞]",
    "name": "🎈吼吼TV",
    "type": 3,
