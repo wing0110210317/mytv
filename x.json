@@ -40,29 +40,29 @@
    "key": "dr_伊人追剧",
    "name": "🦋伊人追剧",
    "type": 3,
-   "api": "https://wing.run.goorm.app/libs/drpy2.min.js",
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://wing.run.goorm.app/admin/view/伊人追剧.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/伊人追剧.js"
   },{
    "key": "dr_兄弟影视",
    "name": "🧑兄弟影视",
    "type": 3,
-   "api": "https://wing.run.goorm.app/libs/drpy2.min.js",
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://wing.run.goorm.app/admin/view/兄弟影视.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兄弟影视.js"
   },{
    "key": "dr_追剧兔",
    "name": "🐇追剧兔",
    "type": 3,
-   "api": "https://wing.run.goorm.app/libs/drpy2.min.js",
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://wing.run.goorm.app/admin/view/追剧兔.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧兔.js"
   },
 {
    "key": "dr_饭团影视",
@@ -103,7 +103,36 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/诺讯影视.js"
-  },{ "key": "dr_乐猪TV", "name": "🐽乐猪TV", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js" },
+  },
+{
+"key": "dr_孜然影视",
+"name": "🍗孜然影视",
+"type": 3,
+"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/孜然影视.js"
+},{
+"key": "dr_乐鱼影视",
+"name": "🐬乐鱼影视",
+"type": 3,
+"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐鱼影视.js"
+},{
+"key": "dr_土狗影院",
+"name": "🐕土狗影院",
+"type": 3,
+"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/土狗影院.js"
+},
+{ "key": "dr_乐猪TV", "name": "🐽乐猪TV", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js" },
 {
    "key": "dr_大米星球",
    "name": "🍚大米星球",
